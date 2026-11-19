@@ -7,7 +7,9 @@ arte del juego. Estado: **terminados**, listos para subir. Títulos, descripcion
 
 - `scripts/videos.json`: guiones aprobados. `text` es el subtítulo y `say` lo que lee la voz (nombres en inglés
   escritos como suenan: "Yéison", "Pléisteishon", "onlain"). `energy` da el tono de cada frase.
-- Voz (Piper `es_ES-davefx-medium`), en cuatro pasos:
+- Voz actual: Kokoro `em_alex` (elegida por el usuario), sin retoques de melodía: `voice_kokoro.py`, luego `realign.py`.
+  La voz anterior con Piper sonaba trabada por el procesado; sus pasos quedan aquí por si se vuelve a usar:
+- Voz anterior (Piper `es_ES-davefx-medium`), en cuatro pasos:
   1. `voice_takes.py`: 5 a 10 tomas por frase.
   2. `voice_pick.py`: les da energía (melodía, un poco más aguda, sin bajar nunca el tono) y elige la mejor por variación,
      final de frase, bajones y ritmo.

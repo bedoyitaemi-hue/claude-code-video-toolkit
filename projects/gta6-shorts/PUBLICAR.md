@@ -2,7 +2,7 @@
 
 Datos verificados el 19 de noviembre de 2026, día del lanzamiento.
 
-## Short 1: `out/GTA6-short-1.mp4` (42 s)
+## Short 1: `out/GTA6-short-1.mp4` (39 s)
 
 **Título:** GTA 6 ya salió: lo que tienes que saber #shorts
 
@@ -11,7 +11,7 @@ GTA 6 salió el 19 de noviembre en PS5 y Xbox Series. Precio, espacio que necesi
 
 #gta6 #gtavi #gta #videojuegos #shorts
 
-## Short 2: `out/GTA6-short-2.mp4` (34 s)
+## Short 2: `out/GTA6-short-2.mp4` (31 s)
 
 **Título:** ¿GTA 6 en PC? La respuesta #shorts
 
@@ -20,7 +20,7 @@ GTA 6 salió solo en consolas y Rockstar no ha anunciado versión para PC. Ojo c
 
 #gta6 #gta6pc #gta #videojuegos #shorts
 
-## Short 3: `out/GTA6-short-3.mp4` (34 s)
+## Short 3: `out/GTA6-short-3.mp4` (31 s)
 
 **Título:** GTA 6 sacó 99: lo bueno y lo malo #shorts
 
