@@ -1,0 +1,153 @@
+{
+ "GTA1": {
+  "title": "GTA 6 ya salió: lo que tienes que saber",
+  "lines": [
+   {
+    "text": "GTA 6 ya está aquí.",
+    "say": "¡GTA 6 ya está aquí!",
+    "energy": "hype"
+   },
+   {
+    "text": "Esto es lo que tienes que saber antes de jugar.",
+    "energy": "info"
+   },
+   {
+    "text": "Salió el 19 de noviembre, solo en PlayStation 5 y Xbox Series.",
+    "say": "Salió el diecinueve de noviembre, solo en Pléisteishon cinco y Xbox Series.",
+    "energy": "info"
+   },
+   {
+    "text": "En Estados Unidos, la edición estándar cuesta 79,99 dólares.",
+    "say": "En Estados Unidos, la edición estándar cuesta setenta y nueve con noventa y nueve dólares.",
+    "energy": "info"
+   },
+   {
+    "text": "La Ultimate, 99,99.",
+    "say": "¡La Áltimeit, noventa y nueve con noventa y nueve!",
+    "energy": "surprise"
+   },
+   {
+    "text": "Necesitas al menos 210 gigas libres en tu consola.",
+    "say": "Necesitas al menos doscientos diez gigas libres en tu consola.",
+    "energy": "info"
+   },
+   {
+    "text": "Por ahora es solo modo historia.",
+    "energy": "info"
+   },
+   {
+    "text": "No hay online en el lanzamiento.",
+    "say": "No hay onlain en el lanzamiento.",
+    "energy": "warn"
+   },
+   {
+    "text": "Juegas con dos protagonistas, Lucia y Jason, y puedes cambiar entre ellos casi en cualquier momento.",
+    "say": "¡Juegas con dos protagonistas, Lucía y Yéison, y puedes cambiar entre ellos casi en cualquier momento!",
+    "energy": "hype"
+   },
+   {
+    "text": "¿Y en PC?",
+    "energy": "curious"
+   },
+   {
+    "text": "Toca esperar.",
+    "energy": "warn"
+   },
+   {
+    "text": "Te lo explico en el próximo video.",
+    "say": "¡Te lo explico en el próximo video!",
+    "energy": "cta"
+   }
+  ]
+ },
+ "GTA2": {
+  "title": "¿GTA 6 en PC? La respuesta",
+  "lines": [
+   {
+    "text": "¿Se puede jugar GTA 6 en PC?",
+    "energy": "curious"
+   },
+   {
+    "text": "Por ahora, no.",
+    "energy": "warn"
+   },
+   {
+    "text": "Salió solo en PlayStation 5 y Xbox Series, y Rockstar no ha anunciado versión para PC.",
+    "say": "Salió solo en Pléisteishon cinco y Xbox Series, y Rockstar no ha anunciado versión para PC.",
+    "energy": "info"
+   },
+   {
+    "text": "Algunos reportes apuntan a 2027.",
+    "energy": "info"
+   },
+   {
+    "text": "Pero no hay fecha oficial.",
+    "energy": "warn"
+   },
+   {
+    "text": "Ya pasó con GTA 5: llegó a PC más de un año y medio después que a consolas.",
+    "energy": "info"
+   },
+   {
+    "text": "Un consejo: si ves una página que vende GTA 6 para PC, desconfía.",
+    "say": "Un consejo: si ves una página que vende GTA 6 para PC, ¡desconfía!",
+    "energy": "warn"
+   },
+   {
+    "text": "Hoy esa versión no existe.",
+    "energy": "warn"
+   },
+   {
+    "text": "Cuando Rockstar lo anuncie, te lo cuento aquí.",
+    "say": "Cuando Rockstar lo anuncie, ¡te lo cuento aquí!",
+    "energy": "cta"
+   }
+  ]
+ },
+ "GTA3": {
+  "title": "GTA 6 sacó 99: lo bueno y lo malo",
+  "lines": [
+   {
+    "text": "GTA 6 sacó 99 en Metacritic.",
+    "say": "¡GTA 6 sacó noventa y nueve en Metacritic!",
+    "energy": "hype"
+   },
+   {
+    "text": "Es una de las notas más altas de la historia.",
+    "say": "¡Es una de las notas más altas de la historia!",
+    "energy": "hype"
+   },
+   {
+    "text": "Empata con el récord y supera a todos los juegos anteriores de Rockstar.",
+    "energy": "info"
+   },
+   {
+    "text": "¿Y lo malo?",
+    "energy": "curious"
+   },
+   {
+    "text": "Corre a 30 cuadros por segundo en todas las consolas, incluso en PS5 Pro.",
+    "say": "Corre a treinta cuadros por segundo en todas las consolas, incluso en PS5 Pro.",
+    "energy": "warn"
+   },
+   {
+    "text": "Algunos críticos se quejan del ritmo de la historia y de unos controles algo torpes.",
+    "energy": "warn"
+   },
+   {
+    "text": "Y la noche del estreno, se cayó la PlayStation Network.",
+    "say": "Y la noche del estreno, ¡se cayó la Pléisteishon Nétguork!",
+    "energy": "warn"
+   },
+   {
+    "text": "¿Tú ya lo jugaste?",
+    "energy": "curious"
+   },
+   {
+    "text": "Dime en los comentarios qué nota le pones.",
+    "say": "Dime en los comentarios qué nota le pones.",
+    "energy": "info"
+   }
+  ]
+ }
+}
