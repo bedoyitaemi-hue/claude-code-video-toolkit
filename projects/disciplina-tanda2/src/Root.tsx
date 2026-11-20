@@ -5,6 +5,7 @@ import {LARGO_ACCENTS, V_LARGO, largoOverlay} from './largo';
 import lg from './LARGO.json';
 import {Thumb} from './Thumb';
 import {ThumbA, ThumbB, ThumbC} from './Thumbs2';
+import {ThumbD, ThumbE} from './Thumbs3';
 import {S1_ACCENTS, V_S1} from './s1';
 import s1 from './S1.json';
 import {S2_ACCENTS, V_S2} from './s2';
@@ -33,5 +34,7 @@ export const RemotionRoot: React.FC = () => (
 		<Composition id="ThumbA" component={ThumbA} durationInFrames={1} fps={30} width={1280} height={720} />
 		<Composition id="ThumbB" component={ThumbB} durationInFrames={1} fps={30} width={1280} height={720} />
 		<Composition id="ThumbC" component={ThumbC} durationInFrames={1} fps={30} width={1280} height={720} />
+		<Composition id="ThumbD" component={ThumbD} durationInFrames={1} fps={30} width={1280} height={720} />
+		<Composition id="ThumbE" component={ThumbE} durationInFrames={1} fps={30} width={1280} height={720} />
 	</>
 );
