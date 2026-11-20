@@ -1,0 +1,668 @@
+[
+ {
+  "text": "Fallaste un día.",
+  "file": "audio/S1/00.wav",
+  "duration": 1.315,
+  "gap": 0.25,
+  "energy": "hook",
+  "words": [
+   {
+    "w": "Fallaste",
+    "s": 0.11,
+    "e": 0.762
+   },
+   {
+    "w": "un",
+    "s": 0.762,
+    "e": 0.925
+   },
+   {
+    "w": "día.",
+    "s": 0.925,
+    "e": 1.17
+   }
+  ]
+ },
+ {
+  "text": "No entrenaste, no estudiaste, comiste lo que no querías.",
+  "file": "audio/S1/01.wav",
+  "duration": 3.32,
+  "gap": 0.22,
+  "energy": "info",
+  "words": [
+   {
+    "w": "No",
+    "s": 0.09,
+    "e": 0.333
+   },
+   {
+    "w": "entrenaste,",
+    "s": 0.333,
+    "e": 1.55
+   },
+   {
+    "w": "no",
+    "s": 1.62,
+    "e": 1.642
+   },
+   {
+    "w": "estudiaste,",
+    "s": 1.642,
+    "e": 1.75
+   },
+   {
+    "w": "comiste",
+    "s": 1.86,
+    "e": 2.307
+   },
+   {
+    "w": "lo",
+    "s": 2.307,
+    "e": 2.434
+   },
+   {
+    "w": "que",
+    "s": 2.434,
+    "e": 2.626
+   },
+   {
+    "w": "no",
+    "s": 2.626,
+    "e": 2.753
+   },
+   {
+    "w": "querías.",
+    "s": 2.753,
+    "e": 3.2
+   }
+  ]
+ },
+ {
+  "text": "Y ahora piensas: ya lo arruiné todo.",
+  "file": "audio/S1/02.wav",
+  "duration": 2.296,
+  "gap": 0.32,
+  "energy": "calm",
+  "words": [
+   {
+    "w": "Y",
+    "s": 0.09,
+    "e": 0.229
+   },
+   {
+    "w": "ahora",
+    "s": 0.229,
+    "e": 0.578
+   },
+   {
+    "w": "piensas:",
+    "s": 0.578,
+    "e": 1.065
+   },
+   {
+    "w": "ya",
+    "s": 1.065,
+    "e": 1.204
+   },
+   {
+    "w": "lo",
+    "s": 1.204,
+    "e": 1.344
+   },
+   {
+    "w": "arruiné",
+    "s": 1.344,
+    "e": 1.831
+   },
+   {
+    "w": "todo.",
+    "s": 1.831,
+    "e": 2.11
+   }
+  ]
+ },
+ {
+  "text": "No, no.",
+  "file": "audio/S1/03.wav",
+  "duration": 0.867,
+  "gap": 0.25,
+  "energy": "hook",
+  "words": [
+   {
+    "w": "No,",
+    "s": 0.09,
+    "e": 0.375
+   },
+   {
+    "w": "no.",
+    "s": 0.375,
+    "e": 0.66
+   }
+  ]
+ },
+ {
+  "text": "Fallar un día no rompe un hábito.",
+  "file": "audio/S1/04.wav",
+  "duration": 2.232,
+  "gap": 0.22,
+  "energy": "info",
+  "words": [
+   {
+    "w": "Fallar",
+    "s": 0.1,
+    "e": 0.552
+   },
+   {
+    "w": "un",
+    "s": 0.552,
+    "e": 0.703
+   },
+   {
+    "w": "día",
+    "s": 0.703,
+    "e": 0.929
+   },
+   {
+    "w": "no",
+    "s": 0.929,
+    "e": 1.08
+   },
+   {
+    "w": "rompe",
+    "s": 1.08,
+    "e": 1.457
+   },
+   {
+    "w": "un",
+    "s": 1.457,
+    "e": 1.608
+   },
+   {
+    "w": "hábito.",
+    "s": 1.608,
+    "e": 2.06
+   }
+  ]
+ },
+ {
+  "text": "Lo que lo rompe es fallar dos veces seguidas.",
+  "file": "audio/S1/05.wav",
+  "duration": 2.787,
+  "gap": 0.38,
+  "energy": "punch",
+  "words": [
+   {
+    "w": "Lo",
+    "s": 0.09,
+    "e": 0.234
+   },
+   {
+    "w": "que",
+    "s": 0.234,
+    "e": 0.45
+   },
+   {
+    "w": "lo",
+    "s": 0.45,
+    "e": 0.594
+   },
+   {
+    "w": "rompe",
+    "s": 0.594,
+    "e": 0.953
+   },
+   {
+    "w": "es",
+    "s": 0.953,
+    "e": 1.097
+   },
+   {
+    "w": "fallar",
+    "s": 1.097,
+    "e": 1.529
+   },
+   {
+    "w": "dos",
+    "s": 1.529,
+    "e": 1.745
+   },
+   {
+    "w": "veces",
+    "s": 1.745,
+    "e": 2.104
+   },
+   {
+    "w": "seguidas.",
+    "s": 2.104,
+    "e": 2.68
+   }
+  ]
+ },
+ {
+  "text": "Un día es un accidente.",
+  "file": "audio/S1/06.wav",
+  "duration": 1.763,
+  "gap": 0.22,
+  "energy": "info",
+  "words": [
+   {
+    "w": "Un",
+    "s": 0.11,
+    "e": 0.278
+   },
+   {
+    "w": "día",
+    "s": 0.278,
+    "e": 0.529
+   },
+   {
+    "w": "es",
+    "s": 0.529,
+    "e": 0.697
+   },
+   {
+    "w": "un",
+    "s": 0.697,
+    "e": 0.865
+   },
+   {
+    "w": "accidente.",
+    "s": 0.865,
+    "e": 1.62
+   }
+  ]
+ },
+ {
+  "text": "Dos días es el comienzo de otro hábito: el de no hacerlo.",
+  "file": "audio/S1/07.wav",
+  "duration": 3.512,
+  "gap": 0.32,
+  "energy": "calm",
+  "words": [
+   {
+    "w": "Dos",
+    "s": 0.09,
+    "e": 0.298
+   },
+   {
+    "w": "días",
+    "s": 0.298,
+    "e": 0.575
+   },
+   {
+    "w": "es",
+    "s": 0.575,
+    "e": 0.714
+   },
+   {
+    "w": "el",
+    "s": 0.714,
+    "e": 0.853
+   },
+   {
+    "w": "comienzo",
+    "s": 0.853,
+    "e": 1.408
+   },
+   {
+    "w": "de",
+    "s": 1.408,
+    "e": 1.546
+   },
+   {
+    "w": "otro",
+    "s": 1.546,
+    "e": 1.824
+   },
+   {
+    "w": "hábito:",
+    "s": 1.824,
+    "e": 2.24
+   },
+   {
+    "w": "el",
+    "s": 2.45,
+    "e": 2.587
+   },
+   {
+    "w": "de",
+    "s": 2.587,
+    "e": 2.724
+   },
+   {
+    "w": "no",
+    "s": 2.724,
+    "e": 2.861
+   },
+   {
+    "w": "hacerlo.",
+    "s": 2.861,
+    "e": 3.34
+   }
+  ]
+ },
+ {
+  "text": "Así que la regla es simple: nunca falles dos veces.",
+  "file": "audio/S1/08.wav",
+  "duration": 3.149,
+  "gap": 0.38,
+  "energy": "punch",
+  "words": [
+   {
+    "w": "Así",
+    "s": 0.09,
+    "e": 0.289
+   },
+   {
+    "w": "que",
+    "s": 0.289,
+    "e": 0.487
+   },
+   {
+    "w": "la",
+    "s": 0.487,
+    "e": 0.62
+   },
+   {
+    "w": "regla",
+    "s": 0.62,
+    "e": 0.95
+   },
+   {
+    "w": "es",
+    "s": 0.95,
+    "e": 1.083
+   },
+   {
+    "w": "simple:",
+    "s": 1.083,
+    "e": 1.48
+   },
+   {
+    "w": "nunca",
+    "s": 1.62,
+    "e": 1.991
+   },
+   {
+    "w": "falles",
+    "s": 1.991,
+    "e": 2.436
+   },
+   {
+    "w": "dos",
+    "s": 2.436,
+    "e": 2.659
+   },
+   {
+    "w": "veces.",
+    "s": 2.659,
+    "e": 3.03
+   }
+  ]
+ },
+ {
+  "text": "Si ayer no entrenaste, hoy haz diez minutos.",
+  "file": "audio/S1/09.wav",
+  "duration": 2.701,
+  "gap": 0.22,
+  "energy": "info",
+  "words": [
+   {
+    "w": "Si",
+    "s": 0.09,
+    "e": 0.224
+   },
+   {
+    "w": "ayer",
+    "s": 0.224,
+    "e": 0.493
+   },
+   {
+    "w": "no",
+    "s": 0.493,
+    "e": 0.628
+   },
+   {
+    "w": "entrenaste,",
+    "s": 0.628,
+    "e": 1.3
+   },
+   {
+    "w": "hoy",
+    "s": 1.41,
+    "e": 1.616
+   },
+   {
+    "w": "haz",
+    "s": 1.616,
+    "e": 1.823
+   },
+   {
+    "w": "diez",
+    "s": 1.823,
+    "e": 2.098
+   },
+   {
+    "w": "minutos.",
+    "s": 2.098,
+    "e": 2.58
+   }
+  ]
+ },
+ {
+  "text": "Si ayer no leíste, hoy lee una página.",
+  "file": "audio/S1/10.wav",
+  "duration": 2.36,
+  "gap": 0.22,
+  "energy": "info",
+  "words": [
+   {
+    "w": "Si",
+    "s": 0.09,
+    "e": 0.237
+   },
+   {
+    "w": "ayer",
+    "s": 0.237,
+    "e": 0.531
+   },
+   {
+    "w": "no",
+    "s": 0.531,
+    "e": 0.679
+   },
+   {
+    "w": "leíste,",
+    "s": 0.679,
+    "e": 1.12
+   },
+   {
+    "w": "hoy",
+    "s": 1.22,
+    "e": 1.424
+   },
+   {
+    "w": "lee",
+    "s": 1.424,
+    "e": 1.628
+   },
+   {
+    "w": "una",
+    "s": 1.628,
+    "e": 1.832
+   },
+   {
+    "w": "página.",
+    "s": 1.832,
+    "e": 2.24
+   }
+  ]
+ },
+ {
+  "text": "No tiene que ser perfecto. Tiene que ser hoy.",
+  "file": "audio/S1/11.wav",
+  "duration": 2.744,
+  "gap": 0.38,
+  "energy": "punch",
+  "words": [
+   {
+    "w": "No",
+    "s": 0.09,
+    "e": 0.228
+   },
+   {
+    "w": "tiene",
+    "s": 0.228,
+    "e": 0.573
+   },
+   {
+    "w": "que",
+    "s": 0.573,
+    "e": 0.78
+   },
+   {
+    "w": "ser",
+    "s": 0.78,
+    "e": 0.988
+   },
+   {
+    "w": "perfecto.",
+    "s": 0.988,
+    "e": 1.54
+   },
+   {
+    "w": "Tiene",
+    "s": 1.71,
+    "e": 2.031
+   },
+   {
+    "w": "que",
+    "s": 2.031,
+    "e": 2.224
+   },
+   {
+    "w": "ser",
+    "s": 2.224,
+    "e": 2.417
+   },
+   {
+    "w": "hoy.",
+    "s": 2.417,
+    "e": 2.61
+   }
+  ]
+ },
+ {
+  "text": "La gente disciplinada también falla. La diferencia es que vuelve rápido.",
+  "file": "audio/S1/12.wav",
+  "duration": 4.557,
+  "gap": 0.32,
+  "energy": "calm",
+  "words": [
+   {
+    "w": "La",
+    "s": 0.09,
+    "e": 0.225
+   },
+   {
+    "w": "gente",
+    "s": 0.225,
+    "e": 0.564
+   },
+   {
+    "w": "disciplinada",
+    "s": 0.564,
+    "e": 1.377
+   },
+   {
+    "w": "también",
+    "s": 1.377,
+    "e": 1.851
+   },
+   {
+    "w": "falla.",
+    "s": 1.851,
+    "e": 2.19
+   },
+   {
+    "w": "La",
+    "s": 2.47,
+    "e": 2.603
+   },
+   {
+    "w": "diferencia",
+    "s": 2.603,
+    "e": 3.269
+   },
+   {
+    "w": "es",
+    "s": 3.269,
+    "e": 3.402
+   },
+   {
+    "w": "que",
+    "s": 3.402,
+    "e": 3.601
+   },
+   {
+    "w": "vuelve",
+    "s": 3.601,
+    "e": 4.001
+   },
+   {
+    "w": "rápido.",
+    "s": 4.001,
+    "e": 4.4
+   }
+  ]
+ },
+ {
+  "text": "Guarda este video para el día que falles.",
+  "file": "audio/S1/13.wav",
+  "duration": 2.552,
+  "gap": 0.3,
+  "energy": "cta",
+  "words": [
+   {
+    "w": "Guarda",
+    "s": 0.12,
+    "e": 0.54
+   },
+   {
+    "w": "este",
+    "s": 0.54,
+    "e": 0.82
+   },
+   {
+    "w": "video",
+    "s": 0.82,
+    "e": 1.17
+   },
+   {
+    "w": "para",
+    "s": 1.17,
+    "e": 1.45
+   },
+   {
+    "w": "el",
+    "s": 1.45,
+    "e": 1.59
+   },
+   {
+    "w": "día",
+    "s": 1.59,
+    "e": 1.8
+   },
+   {
+    "w": "que",
+    "s": 1.8,
+    "e": 2.01
+   },
+   {
+    "w": "falles.",
+    "s": 2.01,
+    "e": 2.43
+   }
+  ]
+ }
+]

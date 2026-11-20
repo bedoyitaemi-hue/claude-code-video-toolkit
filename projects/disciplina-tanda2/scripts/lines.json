@@ -1,0 +1,317 @@
+{
+ "LARGO": [
+  [
+   "Pedro consiguió un aumento.",
+   "hook"
+  ],
+  [
+   "Ganaba más que nunca.",
+   "hook"
+  ],
+  [
+   "Seis meses después, seguía llegando a fin de mes sin un peso.",
+   "calm"
+  ],
+  [
+   "No gastó en nada raro. No apostó. No lo robaron.",
+   "info",
+   "No gastó en nada raro... No apostó... No lo robaron."
+  ],
+  [
+   "Entonces, ¿a dónde se fue el dinero?",
+   "ask"
+  ],
+  [
+   "Esto le pasa a casi todo el mundo, y tiene nombre.",
+   "info"
+  ],
+  [
+   "En este video vas a ver qué es, por qué tu cerebro cae en la trampa, y tres reglas simples para salir de ella.",
+   "info"
+  ],
+  [
+   "Quédate hasta el final, porque la tercera es la que más cuesta y la que más funciona.",
+   "info"
+  ],
+  [
+   "Se llama inflación del estilo de vida.",
+   "punch"
+  ],
+  [
+   "Funciona así: ganas más, y tus gastos suben al mismo ritmo.",
+   "info"
+  ],
+  [
+   "Un celular mejor.",
+   "list"
+  ],
+  [
+   "Comer afuera un día más.",
+   "list"
+  ],
+  [
+   "Una suscripción nueva.",
+   "list"
+  ],
+  [
+   "Ninguno de esos gastos parece grave.",
+   "calm"
+  ],
+  [
+   "El problema es que se suman, y se quedan.",
+   "punch"
+  ],
+  [
+   "Hay una idea vieja que lo explica.",
+   "info"
+  ],
+  [
+   "En 1955, el escritor Cyril Northcote Parkinson dijo que el trabajo se expande hasta llenar el tiempo disponible.",
+   "info"
+  ],
+  [
+   "Con el dinero pasa lo mismo: el gasto crece hasta llenar lo que ganas.",
+   "info"
+  ],
+  [
+   "Si entra más, sale más.",
+   "punch"
+  ],
+  [
+   "¿Y por qué no lo notamos?",
+   "ask"
+  ],
+  [
+   "Porque el cerebro se acostumbra rápido.",
+   "info"
+  ],
+  [
+   "Lo que hoy es un lujo, en un mes es lo normal.",
+   "info"
+  ],
+  [
+   "Y lo normal ya no se siente como un gasto: se siente como lo mínimo.",
+   "calm"
+  ],
+  [
+   "Los psicólogos lo llaman adaptación hedónica.",
+   "info"
+  ],
+  [
+   "La alegría de algo nuevo dura poco, pero el gasto se queda todos los meses.",
+   "calm"
+  ],
+  [
+   "Por eso ganar más no basta.",
+   "punch"
+  ],
+  [
+   "Si no cambias cómo decides, más dinero solo es una versión más cara del mismo problema.",
+   "info"
+  ],
+  [
+   "Regla número uno: págate primero.",
+   "punch"
+  ],
+  [
+   "El día que te pagan, antes de gastar en cualquier cosa, separa una parte para ti.",
+   "info"
+  ],
+  [
+   "Puede ser poco. Lo importante es el orden.",
+   "calm"
+  ],
+  [
+   "Si ahorras lo que sobra, nunca sobra nada.",
+   "info"
+  ],
+  [
+   "Si ahorras primero, aprendes a vivir con el resto.",
+   "punch"
+  ],
+  [
+   "Y si puedes, hazlo automático.",
+   "info"
+  ],
+  [
+   "Una transferencia programada a otra cuenta.",
+   "info"
+  ],
+  [
+   "Así no dependes de tu fuerza de voluntad cada mes.",
+   "info"
+  ],
+  [
+   "La decisión la tomas una vez.",
+   "punch"
+  ],
+  [
+   "Regla número dos: cuando ganes más, sube el ahorro antes que el gasto.",
+   "punch"
+  ],
+  [
+   "Una forma fácil: de cada aumento, la mitad va al ahorro y la otra mitad la disfrutas.",
+   "info"
+  ],
+  [
+   "Así mejoras tu vida y tu futuro al mismo tiempo, y no sientes que te estás castigando.",
+   "calm"
+  ],
+  [
+   "Regla número tres, la difícil: espera antes de comprar.",
+   "punch"
+  ],
+  [
+   "Cuando quieras algo que no estaba en tus planes, no lo compres ese día.",
+   "info"
+  ],
+  [
+   "Espera veinticuatro horas.",
+   "punch"
+  ],
+  [
+   "Si es algo grande, espera una semana.",
+   "info"
+  ],
+  [
+   "Muchas veces, al día siguiente, las ganas ya se fueron.",
+   "calm"
+  ],
+  [
+   "Y si todavía lo quieres, lo compras con la cabeza fría y sin culpa.",
+   "info"
+  ],
+  [
+   "Volvamos a Pedro.",
+   "calm"
+  ],
+  [
+   "No necesitaba ganar más. Necesitaba decidir antes, y no después.",
+   "punch"
+  ],
+  [
+   "Esa es la disciplina con el dinero: no es privarte de todo, es elegir a dónde va cada peso antes de que se vaya solo.",
+   "calm"
+  ],
+  [
+   "Hoy haz una sola cosa: elige qué parte de tu próximo pago vas a separar primero.",
+   "info"
+  ],
+  [
+   "Escríbela en los comentarios, así te comprometes.",
+   "info"
+  ],
+  [
+   "Y si este video te sirvió, suscríbete. Aquí hablamos de disciplina, una decisión a la vez.",
+   "cta"
+  ]
+ ],
+ "S1": [
+  [
+   "Fallaste un día.",
+   "hook"
+  ],
+  [
+   "No entrenaste, no estudiaste, comiste lo que no querías.",
+   "info"
+  ],
+  [
+   "Y ahora piensas: ya lo arruiné todo.",
+   "calm"
+  ],
+  [
+   "No, no.",
+   "hook"
+  ],
+  [
+   "Fallar un día no rompe un hábito.",
+   "info"
+  ],
+  [
+   "Lo que lo rompe es fallar dos veces seguidas.",
+   "punch"
+  ],
+  [
+   "Un día es un accidente.",
+   "info"
+  ],
+  [
+   "Dos días es el comienzo de otro hábito: el de no hacerlo.",
+   "calm"
+  ],
+  [
+   "Así que la regla es simple: nunca falles dos veces.",
+   "punch"
+  ],
+  [
+   "Si ayer no entrenaste, hoy haz diez minutos.",
+   "info"
+  ],
+  [
+   "Si ayer no leíste, hoy lee una página.",
+   "info"
+  ],
+  [
+   "No tiene que ser perfecto. Tiene que ser hoy.",
+   "punch"
+  ],
+  [
+   "La gente disciplinada también falla. La diferencia es que vuelve rápido.",
+   "calm"
+  ],
+  [
+   "Guarda este video para el día que falles.",
+   "cta"
+  ]
+ ],
+ "S2": [
+  [
+   "¿Cuánto cuesta un café? Muy poco.",
+   "hook"
+  ],
+  [
+   "¿Y un café todos los días durante un año?",
+   "ask"
+  ],
+  [
+   "Haz la cuenta conmigo.",
+   "info"
+  ],
+  [
+   "Si gastas tres al día en algo pequeño, al mes son noventa.",
+   "info"
+  ],
+  [
+   "Al año, más de mil.",
+   "punch"
+  ],
+  [
+   "Eso se llama gasto hormiga:",
+   "punch"
+  ],
+  [
+   "compras tan pequeñas que no las sientes, pero juntas se comen tu sueldo.",
+   "info"
+  ],
+  [
+   "No te digo que dejes el café. Te digo que lo mires bien.",
+   "calm"
+  ],
+  [
+   "Esta semana, anota cada gasto pequeño. Todos.",
+   "info"
+  ],
+  [
+   "El domingo, súmalos.",
+   "info"
+  ],
+  [
+   "El número te va a sorprender. Y lo que ves, lo puedes cambiar.",
+   "punch"
+  ],
+  [
+   "Sígueme para más disciplina con tu dinero.",
+   "cta"
+  ]
+ ]
+}
