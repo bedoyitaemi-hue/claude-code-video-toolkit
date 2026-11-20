@@ -4,6 +4,7 @@ import {HORIZ, Line, ShortVideo, totalFrames} from './engine';
 import {LARGO_ACCENTS, V_LARGO, largoOverlay} from './largo';
 import lg from './LARGO.json';
 import {Thumb} from './Thumb';
+import {ThumbA, ThumbB, ThumbC} from './Thumbs2';
 import {S1_ACCENTS, V_S1} from './s1';
 import s1 from './S1.json';
 import {S2_ACCENTS, V_S2} from './s2';
@@ -29,5 +30,8 @@ export const RemotionRoot: React.FC = () => (
 		<Composition id="S2" component={Short2} durationInFrames={totalFrames(L2)} fps={30} width={1080} height={1920} />
 		<Composition id="LARGO" component={Largo} durationInFrames={totalFrames(LL)} fps={30} width={1920} height={1080} />
 		<Composition id="Thumb" component={Thumb} durationInFrames={1} fps={30} width={1280} height={720} />
+		<Composition id="ThumbA" component={ThumbA} durationInFrames={1} fps={30} width={1280} height={720} />
+		<Composition id="ThumbB" component={ThumbB} durationInFrames={1} fps={30} width={1280} height={720} />
+		<Composition id="ThumbC" component={ThumbC} durationInFrames={1} fps={30} width={1280} height={720} />
 	</>
 );
