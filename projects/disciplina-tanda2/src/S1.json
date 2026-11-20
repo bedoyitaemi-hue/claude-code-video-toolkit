@@ -1,7 +1,61 @@
 [
  {
-  "text": "Fallaste un día.",
+  "text": "El error que destruye tus hábitos no es fallar.",
   "file": "audio/S1/00.wav",
+  "duration": 2.744,
+  "gap": 0.25,
+  "energy": "hook",
+  "words": [
+   {
+    "w": "El",
+    "s": 0.09,
+    "e": 0.22
+   },
+   {
+    "w": "error",
+    "s": 0.22,
+    "e": 0.545
+   },
+   {
+    "w": "que",
+    "s": 0.545,
+    "e": 0.74
+   },
+   {
+    "w": "destruye",
+    "s": 0.74,
+    "e": 1.26
+   },
+   {
+    "w": "tus",
+    "s": 1.26,
+    "e": 1.455
+   },
+   {
+    "w": "hábitos",
+    "s": 1.455,
+    "e": 1.91
+   },
+   {
+    "w": "no",
+    "s": 1.91,
+    "e": 2.04
+   },
+   {
+    "w": "es",
+    "s": 2.04,
+    "e": 2.17
+   },
+   {
+    "w": "fallar.",
+    "s": 2.17,
+    "e": 2.56
+   }
+  ]
+ },
+ {
+  "text": "Fallaste un día.",
+  "file": "audio/S1/01.wav",
   "duration": 1.315,
   "gap": 0.25,
   "energy": "hook",
@@ -25,7 +79,7 @@
  },
  {
   "text": "No entrenaste, no estudiaste, comiste lo que no querías.",
-  "file": "audio/S1/01.wav",
+  "file": "audio/S1/02.wav",
   "duration": 3.32,
   "gap": 0.22,
   "energy": "info",
@@ -79,7 +133,7 @@
  },
  {
   "text": "Y ahora piensas: ya lo arruiné todo.",
-  "file": "audio/S1/02.wav",
+  "file": "audio/S1/03.wav",
   "duration": 2.296,
   "gap": 0.32,
   "energy": "calm",
@@ -123,7 +177,7 @@
  },
  {
   "text": "No, no.",
-  "file": "audio/S1/03.wav",
+  "file": "audio/S1/04.wav",
   "duration": 0.867,
   "gap": 0.25,
   "energy": "hook",
@@ -142,7 +196,7 @@
  },
  {
   "text": "Fallar un día no rompe un hábito.",
-  "file": "audio/S1/04.wav",
+  "file": "audio/S1/05.wav",
   "duration": 2.232,
   "gap": 0.22,
   "energy": "info",
@@ -186,7 +240,7 @@
  },
  {
   "text": "Lo que lo rompe es fallar dos veces seguidas.",
-  "file": "audio/S1/05.wav",
+  "file": "audio/S1/06.wav",
   "duration": 2.787,
   "gap": 0.38,
   "energy": "punch",
@@ -240,7 +294,7 @@
  },
  {
   "text": "Un día es un accidente.",
-  "file": "audio/S1/06.wav",
+  "file": "audio/S1/07.wav",
   "duration": 1.763,
   "gap": 0.22,
   "energy": "info",
@@ -274,7 +328,7 @@
  },
  {
   "text": "Dos días es el comienzo de otro hábito: el de no hacerlo.",
-  "file": "audio/S1/07.wav",
+  "file": "audio/S1/08.wav",
   "duration": 3.512,
   "gap": 0.32,
   "energy": "calm",
@@ -342,8 +396,62 @@
   ]
  },
  {
+  "text": "La regla que lo arregla cabe en cuatro palabras.",
+  "file": "audio/S1/09.wav",
+  "duration": 2.957,
+  "gap": 0.38,
+  "energy": "punch",
+  "words": [
+   {
+    "w": "La",
+    "s": 0.09,
+    "e": 0.231
+   },
+   {
+    "w": "regla",
+    "s": 0.231,
+    "e": 0.582
+   },
+   {
+    "w": "que",
+    "s": 0.582,
+    "e": 0.793
+   },
+   {
+    "w": "lo",
+    "s": 0.793,
+    "e": 0.933
+   },
+   {
+    "w": "arregla",
+    "s": 0.933,
+    "e": 1.425
+   },
+   {
+    "w": "cabe",
+    "s": 1.425,
+    "e": 1.706
+   },
+   {
+    "w": "en",
+    "s": 1.706,
+    "e": 1.846
+   },
+   {
+    "w": "cuatro",
+    "s": 1.846,
+    "e": 2.268
+   },
+   {
+    "w": "palabras.",
+    "s": 2.268,
+    "e": 2.83
+   }
+  ]
+ },
+ {
   "text": "Así que la regla es simple: nunca falles dos veces.",
-  "file": "audio/S1/08.wav",
+  "file": "audio/S1/10.wav",
   "duration": 3.149,
   "gap": 0.38,
   "energy": "punch",
@@ -402,7 +510,7 @@
  },
  {
   "text": "Si ayer no entrenaste, hoy haz diez minutos.",
-  "file": "audio/S1/09.wav",
+  "file": "audio/S1/11.wav",
   "duration": 2.701,
   "gap": 0.22,
   "energy": "info",
@@ -451,7 +559,7 @@
  },
  {
   "text": "Si ayer no leíste, hoy lee una página.",
-  "file": "audio/S1/10.wav",
+  "file": "audio/S1/12.wav",
   "duration": 2.36,
   "gap": 0.22,
   "energy": "info",
@@ -500,7 +608,7 @@
  },
  {
   "text": "No tiene que ser perfecto. Tiene que ser hoy.",
-  "file": "audio/S1/11.wav",
+  "file": "audio/S1/13.wav",
   "duration": 2.744,
   "gap": 0.38,
   "energy": "punch",
@@ -554,7 +662,7 @@
  },
  {
   "text": "La gente disciplinada también falla. La diferencia es que vuelve rápido.",
-  "file": "audio/S1/12.wav",
+  "file": "audio/S1/14.wav",
   "duration": 4.557,
   "gap": 0.32,
   "energy": "calm",
@@ -618,7 +726,7 @@
  },
  {
   "text": "Guarda este video para el día que falles.",
-  "file": "audio/S1/13.wav",
+  "file": "audio/S1/15.wav",
   "duration": 2.552,
   "gap": 0.3,
   "energy": "cta",

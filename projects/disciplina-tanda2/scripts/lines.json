@@ -1,6 +1,10 @@
 {
  "LARGO": [
   [
+   "Hay una trampa que te deja sin dinero aunque ganes más. Y casi nadie la ve.",
+   "hook"
+  ],
+  [
    "Pedro consiguió un aumento.",
    "hook"
   ],
@@ -26,7 +30,7 @@
    "info"
   ],
   [
-   "En este video vas a ver qué es, por qué tu cerebro cae en la trampa, y tres reglas simples para salir de ella.",
+   "Al final de este video vas a saber a dónde se fue. Y vas a tener tres reglas para que no te pase a ti.",
    "info"
   ],
   [
@@ -78,6 +82,10 @@
    "punch"
   ],
   [
+   "Pero lo peor no es eso. Lo peor es que tu propio cerebro te esconde la trampa.",
+   "punch"
+  ],
+  [
    "¿Y por qué no lo notamos?",
    "ask"
   ],
@@ -108,6 +116,10 @@
   [
    "Si no cambias cómo decides, más dinero solo es una versión más cara del mismo problema.",
    "info"
+  ],
+  [
+   "Ahora sí, las tres reglas. La primera es tan simple que parece mentira.",
+   "hook"
   ],
   [
    "Regla número uno: págate primero.",
@@ -158,6 +170,10 @@
    "calm"
   ],
   [
+   "Pero ninguna de las dos funciona sin la tercera. Y es la que más cuesta.",
+   "punch"
+  ],
+  [
    "Regla número tres, la difícil: espera antes de comprar.",
    "punch"
   ],
@@ -182,8 +198,8 @@
    "info"
   ],
   [
-   "Volvamos a Pedro.",
-   "calm"
+   "Volvamos a Pedro. ¿Recuerdas que no gastó en nada raro? Ese era el problema.",
+   "punch"
   ],
   [
    "No necesitaba ganar más. Necesitaba decidir antes, y no después.",
@@ -207,6 +223,10 @@
   ]
  ],
  "S1": [
+  [
+   "El error que destruye tus hábitos no es fallar.",
+   "hook"
+  ],
   [
    "Fallaste un día.",
    "hook"
@@ -240,6 +260,10 @@
    "calm"
   ],
   [
+   "La regla que lo arregla cabe en cuatro palabras.",
+   "punch"
+  ],
+  [
    "Así que la regla es simple: nunca falles dos veces.",
    "punch"
   ],
@@ -266,6 +290,10 @@
  ],
  "S2": [
   [
+   "Hay un gasto que se come tu sueldo y casi nunca lo ves.",
+   "hook"
+  ],
+  [
    "¿Cuánto cuesta un café? Muy poco.",
    "hook"
   ],
@@ -283,6 +311,10 @@
   ],
   [
    "Al año, más de mil.",
+   "punch"
+  ],
+  [
+   "Y no es solo el café.",
    "punch"
   ],
   [

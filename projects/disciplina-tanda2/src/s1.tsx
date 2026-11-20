@@ -17,7 +17,7 @@ export const V_S1: ShotDef[] = [
 			const pose = keys(f, [[0, FRONT], [x + 2, FRONT], [x + 12, SLUMP]]);
 			return (
 				<g>
-					<Head x={540} y={300} lines={['NUNCA FALLES', 'DOS VECES']} size={92} s={pop(f, 0)} hi={{1: BLUE}} />
+					<Label x={540} y={320} s={pop(f, 0)} text="UN MAL DÍA" bg={INK} size={64} />
 					<Week x={540} y={620} s={0.95} days={['ok', 'ok', 'ok', 'ok', 'x', '', '']} k={[pop(f, 2), pop(f, 5), pop(f, 8), pop(f, 11), pop(f, x)]} hi={f >= x ? 4 : -1} />
 					<Ground y={G} />
 					<Stickman x={540} y={G} scale={1.25} pose={pose} mood={f > x ? 'sad' : 'neutral'} dir={0} t={t} />

@@ -17,7 +17,7 @@ export const V_S2: ShotDef[] = [
 			const p = w('poco');
 			return (
 				<g>
-					<Head x={540} y={290} lines={['EL GASTO', 'QUE NO VES']} size={96} s={pop(f, 0)} hi={{1: RED_TXT}} />
+					<Label x={540} y={320} s={pop(f, 0)} text="¿CUÁNTO CUESTA?" bg={INK} size={64} />
 					<PriceTag x={720} y={640} s={pop(f, w('cuesta'))} text="3" color={GOLD_DARK} rot={-8} />
 					<Ground y={G} />
 					<Stickman x={360} y={G} scale={1.25} pose={keys(f, [[0, HOLD], [p - 2, SHRUG]])} mood={f > p ? 'happy' : 'neutral'} dir={0} t={t}

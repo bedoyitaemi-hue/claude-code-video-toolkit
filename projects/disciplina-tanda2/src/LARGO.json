@@ -1,7 +1,96 @@
 [
  {
-  "text": "Pedro consiguió un aumento.",
+  "text": "Hay una trampa que te deja sin dinero aunque ganes más. Y casi nadie la ve.",
   "file": "audio/LARGO/00.wav",
+  "duration": 4.408,
+  "gap": 0.25,
+  "energy": "hook",
+  "words": [
+   {
+    "w": "Hay",
+    "s": 0.09,
+    "e": 0.302
+   },
+   {
+    "w": "una",
+    "s": 0.302,
+    "e": 0.514
+   },
+   {
+    "w": "trampa",
+    "s": 0.514,
+    "e": 0.938
+   },
+   {
+    "w": "que",
+    "s": 0.938,
+    "e": 1.15
+   },
+   {
+    "w": "te",
+    "s": 1.15,
+    "e": 1.292
+   },
+   {
+    "w": "deja",
+    "s": 1.292,
+    "e": 1.574
+   },
+   {
+    "w": "sin",
+    "s": 1.574,
+    "e": 1.786
+   },
+   {
+    "w": "dinero",
+    "s": 1.786,
+    "e": 2.21
+   },
+   {
+    "w": "aunque",
+    "s": 2.21,
+    "e": 2.635
+   },
+   {
+    "w": "ganes",
+    "s": 2.635,
+    "e": 2.988
+   },
+   {
+    "w": "más.",
+    "s": 2.988,
+    "e": 3.2
+   },
+   {
+    "w": "Y",
+    "s": 3.28,
+    "e": 3.408
+   },
+   {
+    "w": "casi",
+    "s": 3.408,
+    "e": 3.664
+   },
+   {
+    "w": "nadie",
+    "s": 3.664,
+    "e": 3.984
+   },
+   {
+    "w": "la",
+    "s": 3.984,
+    "e": 4.112
+   },
+   {
+    "w": "ve.",
+    "s": 4.112,
+    "e": 4.24
+   }
+  ]
+ },
+ {
+  "text": "Pedro consiguió un aumento.",
+  "file": "audio/LARGO/01.wav",
   "duration": 1.869,
   "gap": 0.25,
   "energy": "hook",
@@ -30,7 +119,7 @@
  },
  {
   "text": "Ganaba más que nunca.",
-  "file": "audio/LARGO/01.wav",
+  "file": "audio/LARGO/02.wav",
   "duration": 1.592,
   "gap": 0.25,
   "energy": "hook",
@@ -59,7 +148,7 @@
  },
  {
   "text": "Seis meses después, seguía llegando a fin de mes sin un peso.",
-  "file": "audio/LARGO/02.wav",
+  "file": "audio/LARGO/03.wav",
   "duration": 3.64,
   "gap": 0.32,
   "energy": "calm",
@@ -128,7 +217,7 @@
  },
  {
   "text": "No gastó en nada raro. No apostó. No lo robaron.",
-  "file": "audio/LARGO/03.wav",
+  "file": "audio/LARGO/04.wav",
   "duration": 2.957,
   "gap": 0.22,
   "energy": "info",
@@ -187,7 +276,7 @@
  },
  {
   "text": "Entonces, ¿a dónde se fue el dinero?",
-  "file": "audio/LARGO/04.wav",
+  "file": "audio/LARGO/05.wav",
   "duration": 2.275,
   "gap": 0.3,
   "energy": "ask",
@@ -231,7 +320,7 @@
  },
  {
   "text": "Esto le pasa a casi todo el mundo, y tiene nombre.",
-  "file": "audio/LARGO/05.wav",
+  "file": "audio/LARGO/06.wav",
   "duration": 2.979,
   "gap": 0.22,
   "energy": "info",
@@ -294,137 +383,142 @@
   ]
  },
  {
-  "text": "En este video vas a ver qué es, por qué tu cerebro cae en la trampa, y tres reglas simples para salir de ella.",
-  "file": "audio/LARGO/06.wav",
-  "duration": 6.093,
+  "text": "Al final de este video vas a saber a dónde se fue. Y vas a tener tres reglas para que no te pase a ti.",
+  "file": "audio/LARGO/07.wav",
+  "duration": 6.115,
   "gap": 0.22,
   "energy": "info",
   "words": [
    {
-    "w": "En",
+    "w": "Al",
     "s": 0.09,
-    "e": 0.226
+    "e": 0.23
    },
    {
-    "w": "este",
-    "s": 0.226,
-    "e": 0.497
-   },
-   {
-    "w": "video",
-    "s": 0.497,
-    "e": 0.837
-   },
-   {
-    "w": "vas",
-    "s": 0.837,
-    "e": 1.041
-   },
-   {
-    "w": "a",
-    "s": 1.041,
-    "e": 1.177
-   },
-   {
-    "w": "ver",
-    "s": 1.177,
-    "e": 1.38
-   },
-   {
-    "w": "qué",
-    "s": 1.38,
-    "e": 1.584
-   },
-   {
-    "w": "es,",
-    "s": 1.584,
-    "e": 1.72
-   },
-   {
-    "w": "por",
-    "s": 1.86,
-    "e": 2.039
-   },
-   {
-    "w": "qué",
-    "s": 2.039,
-    "e": 2.218
-   },
-   {
-    "w": "tu",
-    "s": 2.218,
-    "e": 2.337
-   },
-   {
-    "w": "cerebro",
-    "s": 2.337,
-    "e": 2.755
-   },
-   {
-    "w": "cae",
-    "s": 2.755,
-    "e": 2.934
-   },
-   {
-    "w": "en",
-    "s": 2.934,
-    "e": 3.053
-   },
-   {
-    "w": "la",
-    "s": 3.053,
-    "e": 3.172
-   },
-   {
-    "w": "trampa,",
-    "s": 3.172,
-    "e": 3.53
-   },
-   {
-    "w": "y",
-    "s": 3.8,
-    "e": 3.926
-   },
-   {
-    "w": "tres",
-    "s": 3.926,
-    "e": 4.179
-   },
-   {
-    "w": "reglas",
-    "s": 4.179,
-    "e": 4.559
-   },
-   {
-    "w": "simples",
-    "s": 4.559,
-    "e": 5.001
-   },
-   {
-    "w": "para",
-    "s": 5.001,
-    "e": 5.254
-   },
-   {
-    "w": "salir",
-    "s": 5.254,
-    "e": 5.571
+    "w": "final",
+    "s": 0.23,
+    "e": 0.58
    },
    {
     "w": "de",
-    "s": 5.571,
-    "e": 5.697
+    "s": 0.58,
+    "e": 0.72
    },
    {
-    "w": "ella.",
-    "s": 5.697,
-    "e": 5.95
+    "w": "este",
+    "s": 0.72,
+    "e": 1.0
+   },
+   {
+    "w": "video",
+    "s": 1.0,
+    "e": 1.35
+   },
+   {
+    "w": "vas",
+    "s": 1.35,
+    "e": 1.56
+   },
+   {
+    "w": "a",
+    "s": 1.56,
+    "e": 1.7
+   },
+   {
+    "w": "saber",
+    "s": 1.7,
+    "e": 2.05
+   },
+   {
+    "w": "a",
+    "s": 2.05,
+    "e": 2.19
+   },
+   {
+    "w": "dónde",
+    "s": 2.19,
+    "e": 2.54
+   },
+   {
+    "w": "se",
+    "s": 2.54,
+    "e": 2.68
+   },
+   {
+    "w": "fue.",
+    "s": 2.68,
+    "e": 2.89
+   },
+   {
+    "w": "Y",
+    "s": 3.28,
+    "e": 3.411
+   },
+   {
+    "w": "vas",
+    "s": 3.411,
+    "e": 3.607
+   },
+   {
+    "w": "a",
+    "s": 3.607,
+    "e": 3.738
+   },
+   {
+    "w": "tener",
+    "s": 3.738,
+    "e": 4.064
+   },
+   {
+    "w": "tres",
+    "s": 4.064,
+    "e": 4.326
+   },
+   {
+    "w": "reglas",
+    "s": 4.326,
+    "e": 4.718
+   },
+   {
+    "w": "para",
+    "s": 4.718,
+    "e": 4.98
+   },
+   {
+    "w": "que",
+    "s": 4.98,
+    "e": 5.176
+   },
+   {
+    "w": "no",
+    "s": 5.176,
+    "e": 5.306
+   },
+   {
+    "w": "te",
+    "s": 5.306,
+    "e": 5.437
+   },
+   {
+    "w": "pase",
+    "s": 5.437,
+    "e": 5.699
+   },
+   {
+    "w": "a",
+    "s": 5.699,
+    "e": 5.829
+   },
+   {
+    "w": "ti.",
+    "s": 5.829,
+    "e": 5.96
    }
   ]
  },
  {
   "text": "Quédate hasta el final, porque la tercera es la que más cuesta y la que más funciona.",
-  "file": "audio/LARGO/07.wav",
+  "file": "audio/LARGO/08.wav",
   "duration": 4.451,
   "gap": 0.22,
   "energy": "info",
@@ -518,7 +612,7 @@
  },
  {
   "text": "Se llama inflación del estilo de vida.",
-  "file": "audio/LARGO/08.wav",
+  "file": "audio/LARGO/09.wav",
   "duration": 2.317,
   "gap": 0.38,
   "energy": "punch",
@@ -562,7 +656,7 @@
  },
  {
   "text": "Funciona así: ganas más, y tus gastos suben al mismo ritmo.",
-  "file": "audio/LARGO/09.wav",
+  "file": "audio/LARGO/10.wav",
   "duration": 3.64,
   "gap": 0.22,
   "energy": "info",
@@ -626,7 +720,7 @@
  },
  {
   "text": "Un celular mejor.",
-  "file": "audio/LARGO/10.wav",
+  "file": "audio/LARGO/11.wav",
   "duration": 1.443,
   "gap": 0.12,
   "energy": "list",
@@ -650,7 +744,7 @@
  },
  {
   "text": "Comer afuera un día más.",
-  "file": "audio/LARGO/11.wav",
+  "file": "audio/LARGO/12.wav",
   "duration": 1.805,
   "gap": 0.12,
   "energy": "list",
@@ -684,7 +778,7 @@
  },
  {
   "text": "Una suscripción nueva.",
-  "file": "audio/LARGO/12.wav",
+  "file": "audio/LARGO/13.wav",
   "duration": 1.613,
   "gap": 0.12,
   "energy": "list",
@@ -708,7 +802,7 @@
  },
  {
   "text": "Ninguno de esos gastos parece grave.",
-  "file": "audio/LARGO/13.wav",
+  "file": "audio/LARGO/14.wav",
   "duration": 2.467,
   "gap": 0.32,
   "energy": "calm",
@@ -747,7 +841,7 @@
  },
  {
   "text": "El problema es que se suman, y se quedan.",
-  "file": "audio/LARGO/14.wav",
+  "file": "audio/LARGO/15.wav",
   "duration": 2.467,
   "gap": 0.38,
   "energy": "punch",
@@ -801,7 +895,7 @@
  },
  {
   "text": "Hay una idea vieja que lo explica.",
-  "file": "audio/LARGO/15.wav",
+  "file": "audio/LARGO/16.wav",
   "duration": 2.168,
   "gap": 0.22,
   "energy": "info",
@@ -845,7 +939,7 @@
  },
  {
   "text": "En 1955, el escritor Cyril Northcote Parkinson dijo que el trabajo se expande hasta llenar el tiempo disponible.",
-  "file": "audio/LARGO/16.wav",
+  "file": "audio/LARGO/17.wav",
   "duration": 7.928,
   "gap": 0.22,
   "energy": "info",
@@ -944,7 +1038,7 @@
  },
  {
   "text": "Con el dinero pasa lo mismo: el gasto crece hasta llenar lo que ganas.",
-  "file": "audio/LARGO/17.wav",
+  "file": "audio/LARGO/18.wav",
   "duration": 4.131,
   "gap": 0.22,
   "energy": "info",
@@ -1023,7 +1117,7 @@
  },
  {
   "text": "Si entra más, sale más.",
-  "file": "audio/LARGO/18.wav",
+  "file": "audio/LARGO/19.wav",
   "duration": 1.741,
   "gap": 0.38,
   "energy": "punch",
@@ -1056,8 +1150,102 @@
   ]
  },
  {
+  "text": "Pero lo peor no es eso. Lo peor es que tu propio cerebro te esconde la trampa.",
+  "file": "audio/LARGO/20.wav",
+  "duration": 4.835,
+  "gap": 0.38,
+  "energy": "punch",
+  "words": [
+   {
+    "w": "Pero",
+    "s": 0.11,
+    "e": 0.463
+   },
+   {
+    "w": "lo",
+    "s": 0.463,
+    "e": 0.639
+   },
+   {
+    "w": "peor",
+    "s": 0.639,
+    "e": 0.992
+   },
+   {
+    "w": "no",
+    "s": 0.992,
+    "e": 1.169
+   },
+   {
+    "w": "es",
+    "s": 1.169,
+    "e": 1.345
+   },
+   {
+    "w": "eso.",
+    "s": 1.345,
+    "e": 1.61
+   },
+   {
+    "w": "Lo",
+    "s": 1.89,
+    "e": 2.022
+   },
+   {
+    "w": "peor",
+    "s": 2.022,
+    "e": 2.285
+   },
+   {
+    "w": "es",
+    "s": 2.285,
+    "e": 2.417
+   },
+   {
+    "w": "que",
+    "s": 2.417,
+    "e": 2.614
+   },
+   {
+    "w": "tu",
+    "s": 2.614,
+    "e": 2.746
+   },
+   {
+    "w": "propio",
+    "s": 2.746,
+    "e": 3.14
+   },
+   {
+    "w": "cerebro",
+    "s": 3.14,
+    "e": 3.601
+   },
+   {
+    "w": "te",
+    "s": 3.601,
+    "e": 3.733
+   },
+   {
+    "w": "esconde",
+    "s": 3.733,
+    "e": 4.193
+   },
+   {
+    "w": "la",
+    "s": 4.193,
+    "e": 4.325
+   },
+   {
+    "w": "trampa.",
+    "s": 4.325,
+    "e": 4.72
+   }
+  ]
+ },
+ {
   "text": "¿Y por qué no lo notamos?",
-  "file": "audio/LARGO/19.wav",
+  "file": "audio/LARGO/21.wav",
   "duration": 1.613,
   "gap": 0.3,
   "energy": "ask",
@@ -1096,7 +1284,7 @@
  },
  {
   "text": "Porque el cerebro se acostumbra rápido.",
-  "file": "audio/LARGO/20.wav",
+  "file": "audio/LARGO/22.wav",
   "duration": 2.531,
   "gap": 0.22,
   "energy": "info",
@@ -1135,7 +1323,7 @@
  },
  {
   "text": "Lo que hoy es un lujo, en un mes es lo normal.",
-  "file": "audio/LARGO/21.wav",
+  "file": "audio/LARGO/23.wav",
   "duration": 2.68,
   "gap": 0.22,
   "energy": "info",
@@ -1204,7 +1392,7 @@
  },
  {
   "text": "Y lo normal ya no se siente como un gasto: se siente como lo mínimo.",
-  "file": "audio/LARGO/22.wav",
+  "file": "audio/LARGO/24.wav",
   "duration": 4.216,
   "gap": 0.32,
   "energy": "calm",
@@ -1288,7 +1476,7 @@
  },
  {
   "text": "Los psicólogos lo llaman adaptación hedónica.",
-  "file": "audio/LARGO/23.wav",
+  "file": "audio/LARGO/25.wav",
   "duration": 2.872,
   "gap": 0.22,
   "energy": "info",
@@ -1327,7 +1515,7 @@
  },
  {
   "text": "La alegría de algo nuevo dura poco, pero el gasto se queda todos los meses.",
-  "file": "audio/LARGO/24.wav",
+  "file": "audio/LARGO/26.wav",
   "duration": 4.515,
   "gap": 0.32,
   "energy": "calm",
@@ -1411,7 +1599,7 @@
  },
  {
   "text": "Por eso ganar más no basta.",
-  "file": "audio/LARGO/25.wav",
+  "file": "audio/LARGO/27.wav",
   "duration": 2.168,
   "gap": 0.38,
   "energy": "punch",
@@ -1450,7 +1638,7 @@
  },
  {
   "text": "Si no cambias cómo decides, más dinero solo es una versión más cara del mismo problema.",
-  "file": "audio/LARGO/26.wav",
+  "file": "audio/LARGO/28.wav",
   "duration": 5.091,
   "gap": 0.22,
   "energy": "info",
@@ -1538,8 +1726,82 @@
   ]
  },
  {
+  "text": "Ahora sí, las tres reglas. La primera es tan simple que parece mentira.",
+  "file": "audio/LARGO/29.wav",
+  "duration": 4.28,
+  "gap": 0.25,
+  "energy": "hook",
+  "words": [
+   {
+    "w": "Ahora",
+    "s": 0.09,
+    "e": 0.583
+   },
+   {
+    "w": "sí,",
+    "s": 0.583,
+    "e": 0.78
+   },
+   {
+    "w": "las",
+    "s": 0.85,
+    "e": 1.016
+   },
+   {
+    "w": "tres",
+    "s": 1.016,
+    "e": 1.238
+   },
+   {
+    "w": "reglas.",
+    "s": 1.238,
+    "e": 1.57
+   },
+   {
+    "w": "La",
+    "s": 1.81,
+    "e": 1.939
+   },
+   {
+    "w": "primera",
+    "s": 1.939,
+    "e": 2.393
+   },
+   {
+    "w": "es",
+    "s": 2.393,
+    "e": 2.522
+   },
+   {
+    "w": "tan",
+    "s": 2.522,
+    "e": 2.716
+   },
+   {
+    "w": "simple",
+    "s": 2.716,
+    "e": 3.104
+   },
+   {
+    "w": "que",
+    "s": 3.104,
+    "e": 3.299
+   },
+   {
+    "w": "parece",
+    "s": 3.299,
+    "e": 3.687
+   },
+   {
+    "w": "mentira.",
+    "s": 3.687,
+    "e": 4.14
+   }
+  ]
+ },
+ {
   "text": "Regla número uno: págate primero.",
-  "file": "audio/LARGO/27.wav",
+  "file": "audio/LARGO/30.wav",
   "duration": 2.275,
   "gap": 0.38,
   "energy": "punch",
@@ -1573,7 +1835,7 @@
  },
  {
   "text": "El día que te pagan, antes de gastar en cualquier cosa, separa una parte para ti.",
-  "file": "audio/LARGO/28.wav",
+  "file": "audio/LARGO/31.wav",
   "duration": 4.664,
   "gap": 0.22,
   "energy": "info",
@@ -1662,7 +1924,7 @@
  },
  {
   "text": "Puede ser poco. Lo importante es el orden.",
-  "file": "audio/LARGO/29.wav",
+  "file": "audio/LARGO/32.wav",
   "duration": 2.787,
   "gap": 0.32,
   "energy": "calm",
@@ -1711,7 +1973,7 @@
  },
  {
   "text": "Si ahorras lo que sobra, nunca sobra nada.",
-  "file": "audio/LARGO/30.wav",
+  "file": "audio/LARGO/33.wav",
   "duration": 2.68,
   "gap": 0.22,
   "energy": "info",
@@ -1760,7 +2022,7 @@
  },
  {
   "text": "Si ahorras primero, aprendes a vivir con el resto.",
-  "file": "audio/LARGO/31.wav",
+  "file": "audio/LARGO/34.wav",
   "duration": 3.085,
   "gap": 0.38,
   "energy": "punch",
@@ -1814,7 +2076,7 @@
  },
  {
   "text": "Y si puedes, hazlo automático.",
-  "file": "audio/LARGO/32.wav",
+  "file": "audio/LARGO/35.wav",
   "duration": 1.955,
   "gap": 0.22,
   "energy": "info",
@@ -1848,7 +2110,7 @@
  },
  {
   "text": "Una transferencia programada a otra cuenta.",
-  "file": "audio/LARGO/33.wav",
+  "file": "audio/LARGO/36.wav",
   "duration": 2.851,
   "gap": 0.22,
   "energy": "info",
@@ -1887,7 +2149,7 @@
  },
  {
   "text": "Así no dependes de tu fuerza de voluntad cada mes.",
-  "file": "audio/LARGO/34.wav",
+  "file": "audio/LARGO/37.wav",
   "duration": 3.256,
   "gap": 0.22,
   "energy": "info",
@@ -1946,7 +2208,7 @@
  },
  {
   "text": "La decisión la tomas una vez.",
-  "file": "audio/LARGO/35.wav",
+  "file": "audio/LARGO/38.wav",
   "duration": 2.04,
   "gap": 0.38,
   "energy": "punch",
@@ -1985,7 +2247,7 @@
  },
  {
   "text": "Regla número dos: cuando ganes más, sube el ahorro antes que el gasto.",
-  "file": "audio/LARGO/36.wav",
+  "file": "audio/LARGO/39.wav",
   "duration": 3.981,
   "gap": 0.38,
   "energy": "punch",
@@ -2059,7 +2321,7 @@
  },
  {
   "text": "Una forma fácil: de cada aumento, la mitad va al ahorro y la otra mitad la disfrutas.",
-  "file": "audio/LARGO/37.wav",
+  "file": "audio/LARGO/40.wav",
   "duration": 4.963,
   "gap": 0.22,
   "energy": "info",
@@ -2153,7 +2415,7 @@
  },
  {
   "text": "Así mejoras tu vida y tu futuro al mismo tiempo, y no sientes que te estás castigando.",
-  "file": "audio/LARGO/38.wav",
+  "file": "audio/LARGO/41.wav",
   "duration": 5.261,
   "gap": 0.32,
   "energy": "calm",
@@ -2246,8 +2508,92 @@
   ]
  },
  {
+  "text": "Pero ninguna de las dos funciona sin la tercera. Y es la que más cuesta.",
+  "file": "audio/LARGO/42.wav",
+  "duration": 4.323,
+  "gap": 0.38,
+  "energy": "punch",
+  "words": [
+   {
+    "w": "Pero",
+    "s": 0.11,
+    "e": 0.377
+   },
+   {
+    "w": "ninguna",
+    "s": 0.377,
+    "e": 0.843
+   },
+   {
+    "w": "de",
+    "s": 0.843,
+    "e": 0.977
+   },
+   {
+    "w": "las",
+    "s": 0.977,
+    "e": 1.177
+   },
+   {
+    "w": "dos",
+    "s": 1.177,
+    "e": 1.377
+   },
+   {
+    "w": "funciona",
+    "s": 1.377,
+    "e": 1.91
+   },
+   {
+    "w": "sin",
+    "s": 1.91,
+    "e": 2.11
+   },
+   {
+    "w": "la",
+    "s": 2.11,
+    "e": 2.243
+   },
+   {
+    "w": "tercera.",
+    "s": 2.243,
+    "e": 2.71
+   },
+   {
+    "w": "Y",
+    "s": 2.99,
+    "e": 3.12
+   },
+   {
+    "w": "es",
+    "s": 3.12,
+    "e": 3.25
+   },
+   {
+    "w": "la",
+    "s": 3.25,
+    "e": 3.38
+   },
+   {
+    "w": "que",
+    "s": 3.38,
+    "e": 3.575
+   },
+   {
+    "w": "más",
+    "s": 3.575,
+    "e": 3.77
+   },
+   {
+    "w": "cuesta.",
+    "s": 3.77,
+    "e": 4.16
+   }
+  ]
+ },
+ {
   "text": "Regla número tres, la difícil: espera antes de comprar.",
-  "file": "audio/LARGO/39.wav",
+  "file": "audio/LARGO/43.wav",
   "duration": 3.491,
   "gap": 0.38,
   "energy": "punch",
@@ -2301,7 +2647,7 @@
  },
  {
   "text": "Cuando quieras algo que no estaba en tus planes, no lo compres ese día.",
-  "file": "audio/LARGO/40.wav",
+  "file": "audio/LARGO/44.wav",
   "duration": 3.96,
   "gap": 0.22,
   "energy": "info",
@@ -2380,7 +2726,7 @@
  },
  {
   "text": "Espera veinticuatro horas.",
-  "file": "audio/LARGO/41.wav",
+  "file": "audio/LARGO/45.wav",
   "duration": 1.869,
   "gap": 0.38,
   "energy": "punch",
@@ -2404,7 +2750,7 @@
  },
  {
   "text": "Si es algo grande, espera una semana.",
-  "file": "audio/LARGO/42.wav",
+  "file": "audio/LARGO/46.wav",
   "duration": 2.424,
   "gap": 0.22,
   "energy": "info",
@@ -2448,7 +2794,7 @@
  },
  {
   "text": "Muchas veces, al día siguiente, las ganas ya se fueron.",
-  "file": "audio/LARGO/43.wav",
+  "file": "audio/LARGO/47.wav",
   "duration": 3.555,
   "gap": 0.32,
   "energy": "calm",
@@ -2507,7 +2853,7 @@
  },
  {
   "text": "Y si todavía lo quieres, lo compras con la cabeza fría y sin culpa.",
-  "file": "audio/LARGO/44.wav",
+  "file": "audio/LARGO/48.wav",
   "duration": 4.024,
   "gap": 0.22,
   "energy": "info",
@@ -2585,32 +2931,87 @@
   ]
  },
  {
-  "text": "Volvamos a Pedro.",
-  "file": "audio/LARGO/45.wav",
-  "duration": 1.4,
-  "gap": 0.32,
-  "energy": "calm",
+  "text": "Volvamos a Pedro. ¿Recuerdas que no gastó en nada raro? Ese era el problema.",
+  "file": "audio/LARGO/49.wav",
+  "duration": 4.6,
+  "gap": 0.38,
+  "energy": "punch",
   "words": [
    {
     "w": "Volvamos",
-    "s": 0.09,
-    "e": 0.714
+    "s": 0.1,
+    "e": 0.633
    },
    {
     "w": "a",
-    "s": 0.714,
-    "e": 0.87
+    "s": 0.633,
+    "e": 0.767
    },
    {
     "w": "Pedro.",
-    "s": 0.87,
-    "e": 1.26
+    "s": 0.767,
+    "e": 1.1
+   },
+   {
+    "w": "¿Recuerdas",
+    "s": 1.33,
+    "e": 1.889
+   },
+   {
+    "w": "que",
+    "s": 1.889,
+    "e": 2.075
+   },
+   {
+    "w": "no",
+    "s": 2.075,
+    "e": 2.199
+   },
+   {
+    "w": "gastó",
+    "s": 2.199,
+    "e": 2.509
+   },
+   {
+    "w": "en",
+    "s": 2.509,
+    "e": 2.633
+   },
+   {
+    "w": "nada",
+    "s": 2.633,
+    "e": 2.882
+   },
+   {
+    "w": "raro?",
+    "s": 2.882,
+    "e": 3.13
+   },
+   {
+    "w": "Ese",
+    "s": 3.35,
+    "e": 3.549
+   },
+   {
+    "w": "era",
+    "s": 3.549,
+    "e": 3.748
+   },
+   {
+    "w": "el",
+    "s": 3.748,
+    "e": 3.88
+   },
+   {
+    "w": "problema.",
+    "s": 3.88,
+    "e": 4.41
    }
   ]
  },
  {
   "text": "No necesitaba ganar más. Necesitaba decidir antes, y no después.",
-  "file": "audio/LARGO/46.wav",
+  "file": "audio/LARGO/50.wav",
   "duration": 4.323,
   "gap": 0.38,
   "energy": "punch",
@@ -2669,7 +3070,7 @@
  },
  {
   "text": "Esa es la disciplina con el dinero: no es privarte de todo, es elegir a dónde va cada peso antes de que se vaya solo.",
-  "file": "audio/LARGO/47.wav",
+  "file": "audio/LARGO/51.wav",
   "duration": 7.053,
   "gap": 0.32,
   "energy": "calm",
@@ -2803,7 +3204,7 @@
  },
  {
   "text": "Hoy haz una sola cosa: elige qué parte de tu próximo pago vas a separar primero.",
-  "file": "audio/LARGO/48.wav",
+  "file": "audio/LARGO/52.wav",
   "duration": 5.091,
   "gap": 0.22,
   "energy": "info",
@@ -2892,7 +3293,7 @@
  },
  {
   "text": "Escríbela en los comentarios, así te comprometes.",
-  "file": "audio/LARGO/49.wav",
+  "file": "audio/LARGO/53.wav",
   "duration": 2.936,
   "gap": 0.22,
   "energy": "info",
@@ -2936,7 +3337,7 @@
  },
  {
   "text": "Y si este video te sirvió, suscríbete. Aquí hablamos de disciplina, una decisión a la vez.",
-  "file": "audio/LARGO/50.wav",
+  "file": "audio/LARGO/54.wav",
   "duration": 5.325,
   "gap": 0.3,
   "energy": "cta",

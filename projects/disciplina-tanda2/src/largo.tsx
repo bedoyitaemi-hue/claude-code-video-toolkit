@@ -1089,7 +1089,9 @@ export const V_LARGO: ShotDef[] = [
 export const LARGO_ACCENTS = {disciplina: BLUE, primero: BLUE, ahorro: GREEN, ahorras: GREEN, gasto: RED_TXT, gastos: RED_TXT, inflacion: RED_TXT, automatico: BLUE, espera: BLUE, veinticuatro: BLUE, semana: BLUE, '#': BLUE};
 
 // Chapter tab and progress line on top of the 16:9 frame
-const CHAPTERS: [number, number, string][] = [[8, 18, 'LA TRAMPA'], [19, 26, 'POR QUÉ CAEMOS'], [27, 35, 'REGLA 1'], [36, 38, 'REGLA 2'], [39, 44, 'REGLA 3']];
+const CHAPTERS: [number, number, string][] = [[9, 19, 'LA TRAMPA'], [20, 28, 'POR QUÉ CAEMOS'], [29, 29, 'LAS 3 REGLAS'], [30, 38, 'REGLA 1'], [39, 41, 'REGLA 2'], [42, 48, 'REGLA 3']];
+// Open question kept on screen from "¿a dónde se fue el dinero?" until the answer
+const OPEN_Q: [number, number] = [5, 8];
 export const largoOverlay = (total: number) => (G0f: number, i: number) => {
 	const ch = CHAPTERS.find(([a, b]) => i >= a && i <= b);
 	const w = ch ? ch[2].length * 26 + 60 : 0;
@@ -1100,6 +1102,12 @@ export const largoOverlay = (total: number) => (G0f: number, i: number) => {
 				<g transform="translate(60,46)">
 					<rect x={0} y={0} width={w} height={56} rx={28} fill={INK} />
 					<text x={w / 2} y={38} fontFamily={FONT} fontWeight={800} fontSize={30} fill={WHITE} textAnchor="middle">{ch[2]}</text>
+				</g>
+			)}
+			{i >= OPEN_Q[0] && i <= OPEN_Q[1] && (
+				<g transform={`translate(1560,74) rotate(${Math.sin(G0f * 0.12) * 2})`}>
+					<rect x={-190} y={-34} width={380} height={68} rx={34} fill={BLUE} />
+					<text x={0} y={12} fontFamily={FONT} fontWeight={800} fontSize={34} fill={WHITE} textAnchor="middle">¿A DÓNDE SE FUE?</text>
 				</g>
 			)}
 		</g>

@@ -1,7 +1,81 @@
 [
  {
-  "text": "¿Cuánto cuesta un café? Muy poco.",
+  "text": "Hay un gasto que se come tu sueldo y casi nunca lo ves.",
   "file": "audio/S2/00.wav",
+  "duration": 3.405,
+  "gap": 0.25,
+  "energy": "hook",
+  "words": [
+   {
+    "w": "Hay",
+    "s": 0.09,
+    "e": 0.312
+   },
+   {
+    "w": "un",
+    "s": 0.312,
+    "e": 0.46
+   },
+   {
+    "w": "gasto",
+    "s": 0.46,
+    "e": 0.83
+   },
+   {
+    "w": "que",
+    "s": 0.83,
+    "e": 1.051
+   },
+   {
+    "w": "se",
+    "s": 1.051,
+    "e": 1.199
+   },
+   {
+    "w": "come",
+    "s": 1.199,
+    "e": 1.495
+   },
+   {
+    "w": "tu",
+    "s": 1.495,
+    "e": 1.643
+   },
+   {
+    "w": "sueldo",
+    "s": 1.643,
+    "e": 2.087
+   },
+   {
+    "w": "y",
+    "s": 2.087,
+    "e": 2.235
+   },
+   {
+    "w": "casi",
+    "s": 2.235,
+    "e": 2.53
+   },
+   {
+    "w": "nunca",
+    "s": 2.53,
+    "e": 2.9
+   },
+   {
+    "w": "lo",
+    "s": 2.9,
+    "e": 3.048
+   },
+   {
+    "w": "ves.",
+    "s": 3.048,
+    "e": 3.27
+   }
+  ]
+ },
+ {
+  "text": "¿Cuánto cuesta un café? Muy poco.",
+  "file": "audio/S2/01.wav",
   "duration": 2.147,
   "gap": 0.25,
   "energy": "hook",
@@ -40,7 +114,7 @@
  },
  {
   "text": "¿Y un café todos los días durante un año?",
-  "file": "audio/S2/01.wav",
+  "file": "audio/S2/02.wav",
   "duration": 2.595,
   "gap": 0.3,
   "energy": "ask",
@@ -94,7 +168,7 @@
  },
  {
   "text": "Haz la cuenta conmigo.",
-  "file": "audio/S2/02.wav",
+  "file": "audio/S2/03.wav",
   "duration": 1.613,
   "gap": 0.22,
   "energy": "info",
@@ -123,7 +197,7 @@
  },
  {
   "text": "Si gastas tres al día en algo pequeño, al mes son noventa.",
-  "file": "audio/S2/03.wav",
+  "file": "audio/S2/04.wav",
   "duration": 3.512,
   "gap": 0.22,
   "energy": "info",
@@ -192,7 +266,7 @@
  },
  {
   "text": "Al año, más de mil.",
-  "file": "audio/S2/04.wav",
+  "file": "audio/S2/05.wav",
   "duration": 1.613,
   "gap": 0.38,
   "energy": "punch",
@@ -225,8 +299,47 @@
   ]
  },
  {
+  "text": "Y no es solo el café.",
+  "file": "audio/S2/06.wav",
+  "duration": 1.592,
+  "gap": 0.38,
+  "energy": "punch",
+  "words": [
+   {
+    "w": "Y",
+    "s": 0.11,
+    "e": 0.281
+   },
+   {
+    "w": "no",
+    "s": 0.281,
+    "e": 0.453
+   },
+   {
+    "w": "es",
+    "s": 0.453,
+    "e": 0.624
+   },
+   {
+    "w": "solo",
+    "s": 0.624,
+    "e": 0.966
+   },
+   {
+    "w": "el",
+    "s": 0.966,
+    "e": 1.137
+   },
+   {
+    "w": "café.",
+    "s": 1.137,
+    "e": 1.48
+   }
+  ]
+ },
+ {
   "text": "Eso se llama gasto hormiga:",
-  "file": "audio/S2/05.wav",
+  "file": "audio/S2/07.wav",
   "duration": 2.061,
   "gap": 0.38,
   "energy": "punch",
@@ -260,7 +373,7 @@
  },
  {
   "text": "compras tan pequeñas que no las sientes, pero juntas se comen tu sueldo.",
-  "file": "audio/S2/06.wav",
+  "file": "audio/S2/08.wav",
   "duration": 4.045,
   "gap": 0.22,
   "energy": "info",
@@ -334,7 +447,7 @@
  },
  {
   "text": "No te digo que dejes el café. Te digo que lo mires bien.",
-  "file": "audio/S2/07.wav",
+  "file": "audio/S2/09.wav",
   "duration": 3.576,
   "gap": 0.32,
   "energy": "calm",
@@ -408,7 +521,7 @@
  },
  {
   "text": "Esta semana, anota cada gasto pequeño. Todos.",
-  "file": "audio/S2/08.wav",
+  "file": "audio/S2/10.wav",
   "duration": 2.915,
   "gap": 0.22,
   "energy": "info",
@@ -452,7 +565,7 @@
  },
  {
   "text": "El domingo, súmalos.",
-  "file": "audio/S2/09.wav",
+  "file": "audio/S2/11.wav",
   "duration": 1.485,
   "gap": 0.22,
   "energy": "info",
@@ -476,7 +589,7 @@
  },
  {
   "text": "El número te va a sorprender. Y lo que ves, lo puedes cambiar.",
-  "file": "audio/S2/10.wav",
+  "file": "audio/S2/12.wav",
   "duration": 3.619,
   "gap": 0.38,
   "energy": "punch",
@@ -550,7 +663,7 @@
  },
  {
   "text": "Sígueme para más disciplina con tu dinero.",
-  "file": "audio/S2/11.wav",
+  "file": "audio/S2/13.wav",
   "duration": 2.552,
   "gap": 0.3,
   "energy": "cta",

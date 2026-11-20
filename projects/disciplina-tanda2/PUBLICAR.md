@@ -8,15 +8,15 @@ hora de Colombia. Los Shorts llevan al largo: fija un comentario con el enlace d
 Título: Ganas más y sigues sin dinero: la trampa que nadie te explica
 
 Descripción:
-Pedro consiguió un aumento y seis meses después seguía sin plata. No gastó en nada raro. Le pasó lo que le pasa a casi todo el mundo: la inflación del estilo de vida. En este video ves qué es, por qué el cerebro cae en ella y tres reglas simples para salir.
+Hay una trampa que te deja sin dinero aunque ganes más. Pedro consiguió un aumento y seis meses después seguía sin plata. No gastó en nada raro. Le pasó lo que le pasa a casi todo el mundo: la inflación del estilo de vida. En este video ves qué es, por qué el cerebro cae en ella y tres reglas simples para salir.
 
-0:00 La historia de Pedro
-0:27 La trampa: inflación del estilo de vida
-1:02 Por qué no lo notamos
-1:30 Regla 1: págate primero
-1:58 Regla 2: sube el ahorro antes que el gasto
-2:13 Regla 3: espera antes de comprar
-2:34 Lo que Pedro necesitaba
+0:00 La trampa que nadie ve
+0:32 Qué es la inflación del estilo de vida
+1:07 Por qué tu cerebro la esconde
+1:44 Regla 1: págate primero
+2:12 Regla 2: sube el ahorro antes que el gasto
+2:32 Regla 3: espera antes de comprar
+2:53 Lo que Pedro necesitaba
 
 Cuéntame en los comentarios qué parte de tu próximo pago vas a separar primero.
 
