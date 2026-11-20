@@ -3,6 +3,7 @@ import {Composition} from 'remotion';
 import {Line, ShortVideo, totalFrames} from './engine';
 import {PoseTest} from './PoseTest';
 import {Avatar, Banner, BannerCheck, Watermark} from './Channel';
+import {R1_TOTAL, Rework} from './r1';
 import {V1, V1_ACCENTS} from './v1';
 import {V2, V2_ACCENTS} from './v2';
 import {V3, V3_ACCENTS} from './v3';
@@ -20,6 +21,7 @@ export const RemotionRoot: React.FC = () => (
 		<Composition id="GTA1" component={Video1} durationInFrames={totalFrames(L1)} fps={30} width={1080} height={1920} />
 		<Composition id="GTA2" component={Video2} durationInFrames={totalFrames(L2)} fps={30} width={1080} height={1920} />
 		<Composition id="GTA3" component={Video3} durationInFrames={totalFrames(L3)} fps={30} width={1080} height={1920} />
+		<Composition id="R1" component={Rework} durationInFrames={R1_TOTAL} fps={30} width={1080} height={1920} />
 		<Composition id="Avatar" component={Avatar} durationInFrames={1} fps={30} width={800} height={800} />
 		<Composition id="Banner" component={Banner} durationInFrames={1} fps={30} width={2560} height={1440} />
 		<Composition id="BannerCheck" component={BannerCheck} durationInFrames={1} fps={30} width={2560} height={1440} />
