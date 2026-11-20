@@ -10,9 +10,9 @@ const G = 800;
 const RED_TXT = '#D93636';
 const Ground: React.FC = () => <G0 y={G} x1={120} x2={1800} />;
 
-// Pedro: the cap tells him apart from the viewer's stickman
+// Pedro: the channel stickman, named on screen when the story is about him
 const Pedro: React.FC<{x: number; pose: any; mood?: any; t: number; s?: number; dir?: number; color?: string; over?: any; y?: number}> = ({x, pose, mood = 'neutral', t, s = 1.05, dir = 0, color = INK, over, y = G}) => (
-	<Stickman x={x} y={y} scale={s} pose={pose} mood={mood} t={t} dir={dir} acc="cap" color={color} over={over} />
+	<Stickman x={x} y={y} scale={s} pose={pose} mood={mood} t={t} dir={dir} color={color} over={over} />
 );
 
 // Money in (green) and money out (red), side by side; the gap is what is kept
@@ -99,7 +99,7 @@ const Crowd: React.FC<{t: number; k: number; pose: any}> = ({t, k, pose}) => (
 	<g>
 		{Array.from({length: 9}).map((_, i) => (
 			<g key={i} opacity={Math.min(1, k * 9 - i)}>
-				<Stickman x={260 + i * 175} y={G} scale={0.62 + rand(i) * 0.12} pose={pose} mood={i % 3 ? 'worried' : 'sad'} t={t + i * 13} dir={0} color={i === 4 ? INK : '#5A5A62'} acc={i === 4 ? 'cap' : 'none'} />
+				<Stickman x={260 + i * 175} y={G} scale={0.62 + rand(i) * 0.12} pose={pose} mood={i % 3 ? 'worried' : 'sad'} t={t + i * 13} dir={0} color={i === 4 ? INK : '#5A5A62'} />
 			</g>
 		))}
 	</g>

@@ -17,7 +17,7 @@ export const Thumb: React.FC = () => (
 			<line x1={820} y1={660} x2={1240} y2={660} stroke={INK} strokeWidth={6} opacity={0.16} />
 			<Bill x={1120} y={140} s={1.1} rot={20} color={GREEN} />
 			<Bill x={1220} y={60} s={0.9} rot={-15} color={GREEN} />
-			<Stickman x={980} y={660} scale={1.45} pose={SHRUG} mood="worried" dir={0} acc="cap" />
+			<Stickman x={980} y={660} scale={1.45} pose={SHRUG} mood="worried" dir={0} />
 			<Wallet x={1170} y={470} s={1.9} open={0.02} rot={-10} />
 		</svg>
 	</AbsoluteFill>
