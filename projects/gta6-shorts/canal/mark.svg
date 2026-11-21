@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Stickman head with a teal cap and a wink: the channel's mark -->
+  <circle cx="246" cy="290" r="176" fill="#141218"/>
+  <path d="M84,222 A176,176 0 0,1 408,222 Z" fill="#0F9A96"/>
+  <path d="M300,206 L486,220 L476,252 L300,240 Z" fill="#0F9A96"/>
+  <ellipse cx="186" cy="304" rx="27" ry="34" fill="#FFFFFF"/>
+  <path d="M262,312 Q300,268 338,312 Q300,292 262,312 Z" fill="#FFFFFF"/>
+  <path d="M160,370 Q246,452 332,370 Q246,418 160,370 Z" fill="#FFFFFF"/>
+</svg>
