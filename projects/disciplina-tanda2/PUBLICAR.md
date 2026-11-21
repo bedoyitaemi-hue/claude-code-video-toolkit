@@ -3,7 +3,7 @@
 Orden sugerido: el largo primero, el Short 1 dos días después y el Short 2 dos días después del Short 1, a las 7 p. m.
 hora de Colombia. Los Shorts llevan al largo: fija un comentario con el enlace del video largo.
 
-## Video largo (out/LARGO-final.mp4, miniatura out/miniatura.png)
+## Video largo (out/LARGO-final.mp4, miniatura out/miniatura.png, la amarilla "¿Y MI PLATA?")
 
 Título: Ganas más y sigues sin dinero: la trampa que nadie te explica
 
