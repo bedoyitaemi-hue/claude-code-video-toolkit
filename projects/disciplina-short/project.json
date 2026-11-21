@@ -1,0 +1,129 @@
+{
+  "name": "disciplina-short",
+  "template": "custom (Remotion, stickman)",
+  "brand": "default",
+  "design": {
+    "source": "propio",
+    "file": "CLAUDE.md"
+  },
+  "created": "2026-11-19T04:50:00Z",
+  "updated": "2026-11-19T06:30:00Z",
+  "phase": "complete",
+  "scenes": [
+    {
+      "id": "escena-1",
+      "type": "problem",
+      "durationSeconds": 6.19,
+      "visual": {
+        "type": "slide",
+        "instructions": "Gancho: primer plano, la llama se apaga; luego corre con la llama, calendario LUN a DOM, se sienta"
+      },
+      "narration": "¿Te ha pasado? Empiezas algo con muchas ganas. Y a la semana, ya lo dejaste.",
+      "status": "ready"
+    },
+    {
+      "id": "escena-2",
+      "type": "problem",
+      "durationSeconds": 6.11,
+      "visual": {
+        "type": "slide",
+        "instructions": "Onda dorada que sube y baja con el stickman encima; la llama crece y se encoge"
+      },
+      "narration": "No eres flojo. La motivación es una emoción, y las emociones suben y bajan.",
+      "status": "ready"
+    },
+    {
+      "id": "escena-3",
+      "type": "problem",
+      "durationSeconds": 5.53,
+      "visual": {
+        "type": "slide",
+        "instructions": "Cama, nube con lluvia y gráfica que baja giran alrededor; la llama parpadea"
+      },
+      "narration": "Dependen de cómo dormiste, de cómo te fue, del clima. No las controlas.",
+      "status": "ready"
+    },
+    {
+      "id": "escena-4",
+      "type": "solution",
+      "durationSeconds": 6.0,
+      "visual": {
+        "type": "slide",
+        "instructions": "Fondo gris: camino azul en perspectiva con bandera; contorno de llama vacía; respira hondo"
+      },
+      "narration": "La disciplina funciona distinto. Es una decisión que tomas antes de tener ganas.",
+      "status": "ready"
+    },
+    {
+      "id": "escena-5",
+      "type": "solution",
+      "durationSeconds": 5.37,
+      "visual": {
+        "type": "slide",
+        "instructions": "Stickman cansado con sudor camina hasta el camino azul; huellas y ✓"
+      },
+      "narration": "No necesita que te sientas bien. Solo necesita que aparezcas.",
+      "status": "ready"
+    },
+    {
+      "id": "escena-6",
+      "type": "feature",
+      "durationSeconds": 5.2,
+      "visual": {
+        "type": "slide",
+        "instructions": "Días L M X J V S D con ✓ verdes, cronómetro de 10:00, escalera que crece; salta escalón a escalón"
+      },
+      "narration": "Diez minutos cuentan. Lo pequeño, repetido cada día, se vuelve parte de ti.",
+      "status": "ready"
+    },
+    {
+      "id": "escena-7",
+      "type": "summary",
+      "durationSeconds": 5.41,
+      "visual": {
+        "type": "slide",
+        "instructions": "Pantalla partida: arriba la llama se apaga en humo; abajo camina por el camino azul"
+      },
+      "narration": "La motivación te ayuda a empezar. La disciplina te hace volver.",
+      "status": "ready"
+    },
+    {
+      "id": "escena-8",
+      "type": "cta",
+      "durationSeconds": 5.82,
+      "visual": {
+        "type": "slide",
+        "instructions": "Sale el sol, sube el último escalón, ✓ verde con destello"
+      },
+      "narration": "Mañana, cuando no tengas ganas, haz la versión pequeña. Y vuelve.",
+      "status": "ready"
+    }
+  ],
+  "audio": {
+    "voiceover": {
+      "file": "public/audio/phrases/",
+      "status": "verified",
+      "scriptWordCount": 100
+    },
+    "music": {
+      "file": "public/audio/music.wav",
+      "status": "verified"
+    },
+    "sfx": [
+      {
+        "file": "public/sfx/",
+        "status": "verified"
+      }
+    ]
+  },
+  "estimates": {
+    "totalDurationSeconds": 47.6,
+    "voiceoverMinutes": 0.76
+  },
+  "sessions": [
+    {
+      "date": "2026-11-19",
+      "summary": "Guion aprobado; voz gratis Piper (es_ES davefx) con tono por frase; tres versiones; v3 con gancho, karaoke y animación fluida. Terminado y aprobado; pendiente publicar."
+    }
+  ]
+}

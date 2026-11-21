@@ -1,0 +1,550 @@
+[
+ {
+  "text": "GTA 6 ya está aquí.",
+  "file": "audio/GTA1-01.wav",
+  "duration": 1.804,
+  "gap": 0.15,
+  "energy": "hype",
+  "words": [
+   {
+    "w": "GTA",
+    "s": 0.09,
+    "e": 0.592
+   },
+   {
+    "w": "6",
+    "s": 0.592,
+    "e": 0.844
+   },
+   {
+    "w": "ya",
+    "s": 0.844,
+    "e": 1.032
+   },
+   {
+    "w": "está",
+    "s": 1.032,
+    "e": 1.346
+   },
+   {
+    "w": "aquí.",
+    "s": 1.346,
+    "e": 1.66
+   }
+  ]
+ },
+ {
+  "text": "Esto es lo que tienes que saber antes de jugar.",
+  "file": "audio/GTA1-02.wav",
+  "duration": 2.743,
+  "gap": 0.2,
+  "energy": "info",
+  "words": [
+   {
+    "w": "Esto",
+    "s": 0.09,
+    "e": 0.356
+   },
+   {
+    "w": "es",
+    "s": 0.356,
+    "e": 0.516
+   },
+   {
+    "w": "lo",
+    "s": 0.516,
+    "e": 0.676
+   },
+   {
+    "w": "que",
+    "s": 0.676,
+    "e": 0.836
+   },
+   {
+    "w": "tienes",
+    "s": 0.836,
+    "e": 1.208
+   },
+   {
+    "w": "que",
+    "s": 1.208,
+    "e": 1.368
+   },
+   {
+    "w": "saber",
+    "s": 1.368,
+    "e": 1.688
+   },
+   {
+    "w": "antes",
+    "s": 1.688,
+    "e": 2.007
+   },
+   {
+    "w": "de",
+    "s": 2.007,
+    "e": 2.167
+   },
+   {
+    "w": "jugar.",
+    "s": 2.167,
+    "e": 2.54
+   }
+  ]
+ },
+ {
+  "text": "Salió el 19 de noviembre, solo en PlayStation 5 y Xbox Series.",
+  "file": "audio/GTA1-03.wav",
+  "duration": 4.407,
+  "gap": 0.2,
+  "energy": "info",
+  "words": [
+   {
+    "w": "Salió",
+    "s": 0.09,
+    "e": 0.328
+   },
+   {
+    "w": "el",
+    "s": 0.328,
+    "e": 0.447
+   },
+   {
+    "w": "19",
+    "s": 0.447,
+    "e": 0.924
+   },
+   {
+    "w": "de",
+    "s": 0.924,
+    "e": 1.043
+   },
+   {
+    "w": "noviembre,",
+    "s": 1.043,
+    "e": 1.52
+   },
+   {
+    "w": "solo",
+    "s": 1.75,
+    "e": 2.025
+   },
+   {
+    "w": "en",
+    "s": 2.025,
+    "e": 2.19
+   },
+   {
+    "w": "PlayStation",
+    "s": 2.19,
+    "e": 2.905
+   },
+   {
+    "w": "5",
+    "s": 2.905,
+    "e": 3.235
+   },
+   {
+    "w": "y",
+    "s": 3.235,
+    "e": 3.29
+   },
+   {
+    "w": "Xbox",
+    "s": 3.29,
+    "e": 3.84
+   },
+   {
+    "w": "Series.",
+    "s": 3.84,
+    "e": 4.28
+   }
+  ]
+ },
+ {
+  "text": "En Estados Unidos, la edición estándar cuesta 79,99 dólares.",
+  "file": "audio/GTA1-04.wav",
+  "duration": 5.303,
+  "gap": 0.2,
+  "energy": "info",
+  "words": [
+   {
+    "w": "En",
+    "s": 0.09,
+    "e": 0.233
+   },
+   {
+    "w": "Estados",
+    "s": 0.233,
+    "e": 0.613
+   },
+   {
+    "w": "Unidos,",
+    "s": 0.613,
+    "e": 1.04
+   },
+   {
+    "w": "la",
+    "s": 1.29,
+    "e": 1.448
+   },
+   {
+    "w": "edición",
+    "s": 1.448,
+    "e": 1.921
+   },
+   {
+    "w": "estándar",
+    "s": 1.921,
+    "e": 2.394
+   },
+   {
+    "w": "cuesta",
+    "s": 2.394,
+    "e": 2.762
+   },
+   {
+    "w": "79,99",
+    "s": 2.762,
+    "e": 4.707
+   },
+   {
+    "w": "dólares.",
+    "s": 4.707,
+    "e": 5.18
+   }
+  ]
+ },
+ {
+  "text": "La Ultimate, 99,99.",
+  "file": "audio/GTA1-05.wav",
+  "duration": 3.041,
+  "gap": 0.2,
+  "energy": "surprise",
+  "words": [
+   {
+    "w": "La",
+    "s": 0.09,
+    "e": 0.246
+   },
+   {
+    "w": "Ultimate,",
+    "s": 0.246,
+    "e": 0.868
+   },
+   {
+    "w": "99,99.",
+    "s": 0.868,
+    "e": 2.84
+   }
+  ]
+ },
+ {
+  "text": "Necesitas al menos 210 gigas libres en tu consola.",
+  "file": "audio/GTA1-06.wav",
+  "duration": 3.873,
+  "gap": 0.2,
+  "energy": "info",
+  "words": [
+   {
+    "w": "Necesitas",
+    "s": 0.09,
+    "e": 0.699
+   },
+   {
+    "w": "al",
+    "s": 0.699,
+    "e": 0.865
+   },
+   {
+    "w": "menos",
+    "s": 0.865,
+    "e": 1.198
+   },
+   {
+    "w": "210",
+    "s": 1.198,
+    "e": 2.139
+   },
+   {
+    "w": "gigas",
+    "s": 2.139,
+    "e": 2.472
+   },
+   {
+    "w": "libres",
+    "s": 2.472,
+    "e": 2.859
+   },
+   {
+    "w": "en",
+    "s": 2.859,
+    "e": 3.025
+   },
+   {
+    "w": "tu",
+    "s": 3.025,
+    "e": 3.192
+   },
+   {
+    "w": "consola.",
+    "s": 3.192,
+    "e": 3.69
+   }
+  ]
+ },
+ {
+  "text": "Por ahora es solo modo historia.",
+  "file": "audio/GTA1-07.wav",
+  "duration": 1.932,
+  "gap": 0.2,
+  "energy": "info",
+  "words": [
+   {
+    "w": "Por",
+    "s": 0.11,
+    "e": 0.325
+   },
+   {
+    "w": "ahora",
+    "s": 0.325,
+    "e": 0.595
+   },
+   {
+    "w": "es",
+    "s": 0.595,
+    "e": 0.756
+   },
+   {
+    "w": "solo",
+    "s": 0.756,
+    "e": 1.026
+   },
+   {
+    "w": "modo",
+    "s": 1.026,
+    "e": 1.295
+   },
+   {
+    "w": "historia.",
+    "s": 1.295,
+    "e": 1.78
+   }
+  ]
+ },
+ {
+  "text": "No hay online en el lanzamiento.",
+  "file": "audio/GTA1-08.wav",
+  "duration": 2.103,
+  "gap": 0.25,
+  "energy": "warn",
+  "words": [
+   {
+    "w": "No",
+    "s": 0.09,
+    "e": 0.261
+   },
+   {
+    "w": "hay",
+    "s": 0.261,
+    "e": 0.374
+   },
+   {
+    "w": "online",
+    "s": 0.374,
+    "e": 0.772
+   },
+   {
+    "w": "en",
+    "s": 0.772,
+    "e": 0.943
+   },
+   {
+    "w": "el",
+    "s": 0.943,
+    "e": 1.114
+   },
+   {
+    "w": "lanzamiento.",
+    "s": 1.114,
+    "e": 1.91
+   }
+  ]
+ },
+ {
+  "text": "Juegas con dos protagonistas, Lucia y Jason, y puedes cambiar entre ellos casi en cualquier momento.",
+  "file": "audio/GTA1-09.wav",
+  "duration": 5.857,
+  "gap": 0.15,
+  "energy": "hype",
+  "words": [
+   {
+    "w": "Juegas",
+    "s": 0.09,
+    "e": 0.414
+   },
+   {
+    "w": "con",
+    "s": 0.414,
+    "e": 0.599
+   },
+   {
+    "w": "dos",
+    "s": 0.599,
+    "e": 0.784
+   },
+   {
+    "w": "protagonistas,",
+    "s": 0.784,
+    "e": 1.57
+   },
+   {
+    "w": "Lucia",
+    "s": 1.67,
+    "e": 2.098
+   },
+   {
+    "w": "y",
+    "s": 2.098,
+    "e": 2.169
+   },
+   {
+    "w": "Jason,",
+    "s": 2.169,
+    "e": 2.74
+   },
+   {
+    "w": "y",
+    "s": 3.04,
+    "e": 3.09
+   },
+   {
+    "w": "puedes",
+    "s": 3.09,
+    "e": 3.44
+   },
+   {
+    "w": "cambiar",
+    "s": 3.44,
+    "e": 3.84
+   },
+   {
+    "w": "entre",
+    "s": 3.84,
+    "e": 4.14
+   },
+   {
+    "w": "ellos",
+    "s": 4.14,
+    "e": 4.39
+   },
+   {
+    "w": "casi",
+    "s": 4.39,
+    "e": 4.64
+   },
+   {
+    "w": "en",
+    "s": 4.64,
+    "e": 4.79
+   },
+   {
+    "w": "cualquier",
+    "s": 4.79,
+    "e": 5.24
+   },
+   {
+    "w": "momento.",
+    "s": 5.24,
+    "e": 5.69
+   }
+  ]
+ },
+ {
+  "text": "¿Y en PC?",
+  "file": "audio/GTA1-10.wav",
+  "duration": 1.015,
+  "gap": 0.25,
+  "energy": "curious",
+  "words": [
+   {
+    "w": "¿Y",
+    "s": 0.09,
+    "e": 0.16
+   },
+   {
+    "w": "en",
+    "s": 0.16,
+    "e": 0.37
+   },
+   {
+    "w": "PC?",
+    "s": 0.37,
+    "e": 0.86
+   }
+  ]
+ },
+ {
+  "text": "Toca esperar.",
+  "file": "audio/GTA1-11.wav",
+  "duration": 1.164,
+  "gap": 0.25,
+  "energy": "warn",
+  "words": [
+   {
+    "w": "Toca",
+    "s": 0.12,
+    "e": 0.417
+   },
+   {
+    "w": "esperar.",
+    "s": 0.417,
+    "e": 1.01
+   }
+  ]
+ },
+ {
+  "text": "Te lo explico en el próximo video.",
+  "file": "audio/GTA1-12.wav",
+  "duration": 2.06,
+  "gap": 0.25,
+  "energy": "cta",
+  "words": [
+   {
+    "w": "Te",
+    "s": 0.11,
+    "e": 0.255
+   },
+   {
+    "w": "lo",
+    "s": 0.255,
+    "e": 0.4
+   },
+   {
+    "w": "explico",
+    "s": 0.4,
+    "e": 0.836
+   },
+   {
+    "w": "en",
+    "s": 0.836,
+    "e": 0.981
+   },
+   {
+    "w": "el",
+    "s": 0.981,
+    "e": 1.126
+   },
+   {
+    "w": "próximo",
+    "s": 1.126,
+    "e": 1.561
+   },
+   {
+    "w": "video.",
+    "s": 1.561,
+    "e": 1.9
+   }
+  ]
+ }
+]
