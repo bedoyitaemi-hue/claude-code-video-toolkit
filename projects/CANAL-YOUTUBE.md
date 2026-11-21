@@ -1,6 +1,8 @@
 # Canal de YouTube: memoria de trabajo
 
-Resumen para retomar el canal en una sesión nueva. Última actualización: 19 de noviembre de 2026.
+Resumen para retomar el canal en una sesión nueva. Última actualización: 21 de noviembre de 2026.
+
+**Nombre del canal: De cero a libre.**
 
 ## Quién y cómo trabajamos
 
