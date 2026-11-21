@@ -13,7 +13,7 @@ Resumen para retomar el canal en una sesión nueva. Última actualización: 21 d
 ## Estilo del canal (decidido)
 
 - Formato: Shorts verticales de unos 45 segundos.
-- Temas: desarrollo personal, disciplina y hábitos. Tono serio y motivador, sin promesas exageradas.
+- Temas: finanzas personales, disciplina y hábitos (desarrollo personal). Tono serio y motivador, sin promesas exageradas.
 - Dibujo: stickman negros sobre fondo blanco o gris. Colores con significado: dorado para la motivación (la llama),
   azul para la disciplina (el camino), verde para el progreso (los ✓ y la escalera).
 - Caras con expresiones, respiración y movimiento constante, leve acercamiento de cámara por escena.
