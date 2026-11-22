@@ -19,13 +19,13 @@ SRC = {
 INTRO = ("intro", 0.0, 4.9)
 # countdown 7 -> 1, sources shuffled
 MOMENTS = [
-    (7, "WIPEOUT", "comp", 12.65, 15.80),
-    (6, "SUPERMAN", "comp_low", 22.85, 26.25),
-    (5, "SPLASH", "comp", 7.97, 12.55),
-    (4, "ANKLES", "noche", 0.0, 5.88),
-    (3, "BACKFLIP", "comp_low", 15.87, 22.78),
-    (2, "BICYCLE", "comp", 26.30, 30.85),
-    (1, "FACEPLANT", "comp", 0.0, 7.90),
+    (7, "RAGDOLL", "comp", 12.65, 15.80),
+    (6, "BUTTERFINGERS", "comp_low", 22.85, 26.25),
+    (5, "MUDBATH", "comp", 7.97, 12.55),
+    (4, "GRAVITY", "noche", 0.0, 5.88),
+    (3, "YEET", "comp_low", 15.87, 22.78),
+    (2, "BRUH", "comp", 26.30, 30.85),
+    (1, "SANDWICH", "comp", 0.0, 7.90),
 ]
 
 def outlined(d, xy, text, font, fill, stroke=8):
